@@ -40,7 +40,7 @@ The grading breakdown is subject to change during the course for the benefit of 
       <p> <strong>Exam-2: 30% </strong> </p>      
   </td>
     <td width="40%">
-      <img src="/assets/images/noun-exam-3617082_copy.png" alt="exam icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br> 
+      <img src="/fall2026/assets/images/noun-exam-3617082_copy.png" alt="exam icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br> 
       <p><font size="1">exam by pongsakorn from <a href="https://thenounproject.com/browse/icons/term/exam/" target="_blank" title="exam Icons">Noun Project</a></font></p>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Furthermore, the ethical issues regarding the use of chatGPT or any other AI-bas
     </td>
 
     <td width="40%">
-      <img src="/assets/images/noun-classroom-3973477_copy.png" alt="classroom icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br>
+      <img src="/fall2026/assets/images/noun-classroom-3973477_copy.png" alt="classroom icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br>
       <p><font size="1">classroom by Chattapat from <a href="https://thenounproject.com/browse/icons/term/classroom/" target="_blank" title="classroom Icons">Noun Project</a></font></p>
     </td>
   </tr>
@@ -159,7 +159,7 @@ When you need to communicate with us directly regarding extenuating circumstance
       <p> Disrespect in any form will not be tolerated. </p>
     </td>
     <td width="40%">
-      <img src="/assets/images/noun-employee-diversity-3989902_copy.png" alt="classroom icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br>
+      <img src="/fall2026/assets/images/noun-employee-diversity-3989902_copy.png" alt="classroom icon" style="object-fit:contain width:200px;height:200px; margin-right: 5px;" /><br>
       <p><font size="1">employee diversity by Bold Yellow from <a href="https://thenounproject.com/browse/icons/term/employee-diversity/" target="_blank" title="employee diversity Icons">Noun Project</a></font></p>
     </td>
   </tr>
@@ -188,13 +188,13 @@ The center cultivates confident writers in the University community by facilitat
 
 ### Academic Commons 
 This provides tutoring and other academic support resources to students in many courses. Students can schedule virtual one-on-one appointments or attend drop-in sessions to review tutoring schedule, access other academic support resources, or obtain assistance at https://library.gwu.edu/academic-commons. Below is a short list of resources:
-- Virtual learning resources: https://tinyurl.com/gw-virtual-learning\
-- Research help: https://library.gwu.edu/get-research-help
-- Tutoring: https://library.gwu.edu/academic-commons/tutoring
-- Academic success skills: https://library.gwu.edu/academic-commons/skills-academicsuccess
+- Virtual learning resources: <https://tinyurl.com/gw-virtual-learning>
+- Research help: <https://library.gwu.edu/get-research-help>
+- Tutoring: <https://library.gwu.edu/academic-commons/tutoring>
+- Academic success skills: <https://library.gwu.edu/academic-commons/skills-academicsuccess>
 
 ### Office of Student Success 
-The mission of the Office of Student Success is “To support academic progress, student engagement, and well-being to ensure student satisfaction and successful student experiences, thereby improving retention and graduation outcomes.” Visit https://studentsuccess.gwu.edu.
+The mission of the Office of Student Success is “To support academic progress, student engagement, and well-being to ensure student satisfaction and successful student experiences, thereby improving retention and graduation outcomes.” Visit <https://studentsuccess.gwu.edu>.
 
 
 ### Disability Support Services (DSS) 202‐994‐8250 
@@ -207,9 +207,9 @@ The University's Counseling and Psychological Services (CAPS) offers 24/7 assist
 
 ### Safety and Security 
 - In an emergency: Call GWPD 202-991-6111 or 911 
-- For situation-specific actions: Review the Emergency Response Handbook at https://safety.gwu.edu/emergency-response-handbook  
-- GWU Active preparedness resource: https://safety.gwu.edu/active-threat-preparedness
-- GWU Rev-ready campaign: https://safety.gwu.edu/rev-ready 
+- For situation-specific actions: Review the Emergency Response Handbook at <https://safety.gwu.edu/emergency-response-handbook>  
+- GWU Active preparedness resource: <https://safety.gwu.edu/active-threat-preparedness>
+- GWU Rev-ready campaign: <https://safety.gwu.edu/rev-ready> 
 
 
 ## Academic Integrity Code
@@ -219,9 +219,9 @@ Unless otherwise specified:
 2. You can work in teams only if they are designated as team projects (labs). Unless otherwise specified, you cannot search for solutions or code on the web – but you can use any code that is included in the textbook or lecture notes (but please cite them). 
 3. I will be using a SW tool that checks for program code similarities – any pair of programs or written reports with greater than 10% similarity will be closely examined.
 
-Note: The Office of Academic Integrity maintains a permanent record of the violation.
+**Note:** The Office of Academic Integrity maintains a permanent record of the violation.
 More information is available from the Office of Academic Integrity at <https://students.gwu.edu/cesa>. The University’s “Guide of Academic Integrity in Online Learning Environments” is available at <https://students.gwu.edu/cesa>. 
 
-Contact information: rights@gwu.edu or 202-994-6757.
+**Contact information:** rights@gwu.edu or 202-994-6757.
 
 
