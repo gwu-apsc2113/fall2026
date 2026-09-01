@@ -37,17 +37,14 @@ format:
       
       He developed a wavelet transform-based computational code (PIVlet) for the analysis of complex vortical patterns encountered in arterial blood flow. He has extensive knowledge of experimental fluid mechanics and non-invasive measurement techniques such as laser Doppler velocimetry (LDV), particle image velocimetry (PIV), schlieren imagery, magnetic resonance velocimetry (MRV) and molecular tagging velocimetry (MTV). Dr. Bulusu was recognized with the ASME Best Paper Award by the Advanced Energy Systems Division (AESD) Heat Pump Technical Committee, William and Louise Corcoron Award for contributing to the intellectual and social life and the Bender award for teaching excellence in the School of Engineering and Applied Science, GWU.
     </td>
+  <td width="30%">
+  <img src="/fall2026/assets/images/team/bulusu.jpg" alt="instructor" style="object-fit:contain width:400px;height:300px; margin-right: 10px;" />
+    Campus Address: SEH 4615 <br>
+    Email: bulusu at email dot gwu dot edu<br>
+    <a href="https://bulusuk/github.io" target="_blank" rel="noopener noreferrer">Web</a> <br>
+    <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
 
-    <td width="30%">
-      <img src="/assets/images/team/bulusu.jpg" alt="instructor" style="object-fit:contain width:400px;height:300px; margin-right: 10px;" />
-  - Campus Address: SEH 4615
-
-  - Email: bulusu at email dot gwu dot edu 
-  
-  - [**Web**](https://bulusuk/github.io) 
-  
-  - [**LinkedIn**](https://www.linkedin.com/in/kartik-bulusu-1295261/)
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -56,22 +53,22 @@ format:
 <table>
   <tr>
     <td width="60%">
-I am ​Preethi Siva Kumar, graduate student in the Department of Mechanical and Aerospace Engineering. My research focuses on computational fluid dynamics, and I am currently working with Dr. Kartik Bulusu in the Biofluid Dynamics Lab. My work explores cardiovascular flow and the physiological effects of blood rheology.
+      I am ​Preethi Siva Kumar, graduate student in the Department of Mechanical and Aerospace Engineering. My research focuses on computational fluid dynamics, and I am currently working with Dr. Kartik Bulusu in the Biofluid Dynamics Lab. My work explores cardiovascular flow and the physiological effects of blood rheology.
 
-​Before beginning my graduate studies, I earned my undergraduate degree in Aeronautical Engineering and gained practical experience in aerodynamics and controls by competing in competitions like SAE Aero Design and AIAA Design/Build/Fly. I am experienced as a software developer where I worked with JavaScript and Python.
+      ​Before beginning my graduate studies, I earned my undergraduate degree in Aeronautical Engineering and gained practical experience in aerodynamics and controls by competing in competitions like SAE Aero Design and AIAA Design/Build/Fly. I am experienced as a software developer where I worked with JavaScript and Python.
 
-​When I am not in the lab, I enjoy visiting museums and working hard to keep myhouseplants alive. I am looking for name suggestions for my new cactus, so feel free to share your ideas at my email below!
-</td>
+      ​When I am not in the lab, I enjoy visiting museums and working hard to keep myhouseplants alive. I am looking for name suggestions for my new cactus, so feel free to share your ideas at my email below!
 
-    <td width="40%">
-      <img src="/assets/images/team/preethi.jpg" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" />
+  </td>
 
-      **Office hours and Location:** TBA 
+  <td width="40%">
+    <img src="/fall2026/assets/images/team/preethi.jpg" alt="instructor" style="object-fit:contain width:200px;height:200px; margin-right: 10px;" /> 
+  <br>
+      Office hours and Location: TBA <br>
+      Email: preethis at gwu dot edu <br>
+      <a href="https://www.linkedin.com/in/sivakumarpreethi/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
-      **Email:** preethis at gwu dot edu
-
-      [**LinkedIn**](https://www.linkedin.com/in/sivakumarpreethi/)
-    </td>
+  </td>
   </tr>
 </table> 
 
