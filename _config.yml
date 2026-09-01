@@ -16,7 +16,7 @@
 title: APSC 2113 <br> [Fall 2026]
 description: Engineering Analysis I
 baseurl: "/fall2026" # the subpath of your site, e.g. /blog
-url: "https://gwu-apsc2113.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwu-apsc2113.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
