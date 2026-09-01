@@ -41,7 +41,7 @@ format:
   <img src="/fall2026/assets/images/team/bulusu.jpg" alt="instructor" style="object-fit:contain width:400px;height:300px; margin-right: 10px;" />
     Campus Address: SEH 4615 <br>
     Email: bulusu at email dot gwu dot edu<br>
-    <a href="https://bulusuk/github.io" target="_blank" rel="noopener noreferrer">Web</a> <br>
+    <a href="https://bulusuk.github.io" target="_blank" rel="noopener noreferrer">Web</a> <br>
     <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank" rel="noopener noreferrer">LinkedIn</a> 
 
   </td>
