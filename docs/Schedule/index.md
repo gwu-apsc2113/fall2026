@@ -19,7 +19,7 @@ The course schedule posted below is subject to change during the semester.
 | Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 | Intro to APSC 2113; Differential Equations and Mathematical Models |  | First-order differential equations |
 |  | Aug 27, 2026 |  | Integrals as General and Particular Solutions; Slope Fields and Solution Curves |  | [First Order ODEs: Notes-set1](/fall2026/docs/Notes/) |
 | Aug 31st - Sep 6th | Sep 1, 2026 | LQ1 | Separable Equations and Applications |  |  |
-|  | Sep 3, 2026 |  | Linear First-Order Equations; Substitution Methods and Exact Equations |  |  |
+|  | Sep 3, 2026 |  | Linear First-Order Equations; Substitution Methods and Exact Equations |  | [First Order ODEs: Notes-set2](/fall2026/docs/Notes/) |
 | Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 | Substitution Methods and Exact Equations |  |  |
 |  | Sep 10, 2026 |  | Population Models; Acceleration-Velocity Models | HW1 due |  |
 | Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 | Introduction: Second-Order Linear Equations |  | Second-order differential equations |
