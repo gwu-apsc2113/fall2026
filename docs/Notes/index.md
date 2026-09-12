@@ -31,3 +31,17 @@ nav_order: 4
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set1.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
+
+# First-Order ODEs Notes-set3
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set3.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set1.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# First-Order ODEs Exanple-Pset1
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/FirstOrderODEs_Example_Pset1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set1.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
