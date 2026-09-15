@@ -45,3 +45,10 @@ nav_order: 4
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Example_PSet1.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
+
+# Cheat sheet for the Classification of Ordinary Differential Equations
+<div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
+  <img src="{{ '/docs/Notes/ode_classification_editable.png' | relative_url }}"
+       alt="Cheat sheet for the classification of ordinary differential equations"
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
