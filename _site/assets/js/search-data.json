@@ -953,7 +953,7 @@
   },"136": {
     "doc": "Schedule",
     "title": "Course Schedule",
-    "content": "The course schedule posted below is subject to change during the semester. | Week | Date | Quizzes (LQs and RQs) | Topic | HW | Unit | . | Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 | Intro to APSC 2113; Differential Equations and Mathematical Models |   | First-order differential equations | . |   | Aug 27, 2026 |   | Integrals as General and Particular Solutions; Slope Fields and Solution Curves |   | First Order ODEs: Notes-set1 | . | Aug 31st - Sep 6th | Sep 1, 2026 | LQ1 | Separable Equations and Applications |   |   | . |   | Sep 3, 2026 |   | Response to Exponential functions: Particular and homogenous solutions |   | First Order ODEs: Notes-set2 | . | Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 | Response to Oscillating functions (cos $\\omegat$): Particular and homogenous solutions |   | First Order ODEs: Notes-set3 | . |   | Sep 10, 2026 |   | Solved Examples and Discussions |   | First Order ODEs: Example-Pset1 | . | Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 | Population and Logistic problem, Introduction: Second-Order Linear Equations |   | ODE classification (Cheat Sheet) Second-order differential equations | . |   | Sep 17, 2026 |   | General Solutions of Linear Equations | HW1 due |   | . | Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Mechanical Vibrations |   |   | . |   | Sep 24, 2026 |   | Homogeneous Equations with Constant Coefficients; Nonhomogeneous Equations and Undetermined Coefficients |   |   | . | Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Forced Oscillations and Resonance |   |   | . |   | Oct 1, 2026 |   | Electrical Circuits; Endpoint Problems and Eigenvalues | HW2 due |   | . | Oct 5th - Oct 11th | Oct 6, 2026 | LQ4 | Introduction and Review of Power Series |   | Power Series Methods | . |   | Oct 8, 2026 |   | Series Solutions Near Ordinary Points |   |   | . | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |   |   |   | . |   | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |   |   |   | . | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |   | Power Series Methods (continued) | . |   | Oct 22, 2026 |   | Method of Frobenius: The Exceptional Cases; Bessel’s Equation | HW3 due |   | . | Oct 26th - Nov 1st | Oct 27, 2026 | LQ5 | Laplace transform and inverse transform |   | Laplace Transform Methods | . |   | Oct 29, 2026 |   | Transformation of Initial value problems; Translation and Partial Fractions |   |   | . | Nov 2nd - Nov 8th | Nov 3, 2026 | LQ6 | Derivatives, integrals and products of transforms |   |   | . |   | Nov 5, 2026 |   | Periodic and Piecewise continuous input functions |   |   | . | Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | Impulses and Delta Functions |   |   | . |   | Nov 12, 2026 |   | First-order Systems and Applications | HW4 due | Linear systems of Differential Equations | . | Nov 16th - Nov 22nd | Nov 17, 2026 | LQ7 | The method of elimination |   |   | . |   | Nov 19, 2026 |   | Martices and linear systems; The Eigenvalue method for homogenous systems |   |   | . | Nov 23rd - Nov 29th | Nov 24, 2026 | Thanksgiving Break |   |   |   | . |   | Nov 26, 2026 |   |   |   |   | . | Nov 30th - Dec 6th | Dec 1, 2026 | LQ8 | Second order systems and mechanical applications |   | Linear systems of Differential Equations (continued) | . |   | Dec 3, 2026 |   | Multiple Eigenvalues solutions; Martrix exponentials and linear systems |   |   | . | Dec 7th - Dec 13th | Dec 8, 2026 | RQ5 | Nonhomogeneoous linear systems | HW5 due |   | . |   |   |   |   |   |   | . | Dec 11th - Dec 17th | Dec 15, 2026 | Exam-2: Power Series, Laplace Transform, and First and Second Order System of Equations |   |   |   | . |   | Dec 17, 2026 | Make-up Exam |   |   |   | . ",
+    "content": "The course schedule posted below is subject to change during the semester. | Week | Date | Quizzes (LQs and RQs) | Topic | HW | Unit | . | Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 | Intro to APSC 2113; Differential Equations and Mathematical Models |   | First-order differential equations ODE classification (Cheat Sheet) | . |   | Aug 27, 2026 |   | Integrals as General and Particular Solutions; Slope Fields and Solution Curves |   | First Order ODEs: Notes-set1 | . | Aug 31st - Sep 6th | Sep 1, 2026 | LQ1 | Separable Equations and Applications |   | First Order ODEs: Notes-set4 | . |   | Sep 3, 2026 |   | Response to Exponential functions: Particular and homogenous solutions |   | First Order ODEs: Notes-set2 | . | Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 | Response to Oscillating functions (cos $\\omegat$): Particular and homogenous solutions |   | First Order ODEs: Notes-set3 | . |   | Sep 10, 2026 |   | Solved Examples and Discussions |   | First Order ODEs: Example-Pset1 | . | Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 | Population and Logistic problem, Introduction: Second-Order Linear Equations |   | First Order ODEs: Notes-set5 Second-order differential equations | . |   | Sep 17, 2026 |   | General Solutions of Linear Equations | HW1 due |   | . | Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Mechanical Vibrations |   |   | . |   | Sep 24, 2026 |   | Homogeneous Equations with Constant Coefficients; Nonhomogeneous Equations and Undetermined Coefficients |   |   | . | Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Forced Oscillations and Resonance |   |   | . |   | Oct 1, 2026 |   | Electrical Circuits; Endpoint Problems and Eigenvalues | HW2 due |   | . | Oct 5th - Oct 11th | Oct 6, 2026 | LQ4 | Introduction and Review of Power Series |   | Power Series Methods | . |   | Oct 8, 2026 |   | Series Solutions Near Ordinary Points |   |   | . | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |   |   |   | . |   | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |   |   |   | . | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |   | Power Series Methods (continued) | . |   | Oct 22, 2026 |   | Method of Frobenius: The Exceptional Cases; Bessel’s Equation | HW3 due |   | . | Oct 26th - Nov 1st | Oct 27, 2026 | LQ5 | Laplace transform and inverse transform |   | Laplace Transform Methods | . |   | Oct 29, 2026 |   | Transformation of Initial value problems; Translation and Partial Fractions |   |   | . | Nov 2nd - Nov 8th | Nov 3, 2026 | LQ6 | Derivatives, integrals and products of transforms |   |   | . |   | Nov 5, 2026 |   | Periodic and Piecewise continuous input functions |   |   | . | Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | Impulses and Delta Functions |   |   | . |   | Nov 12, 2026 |   | First-order Systems and Applications | HW4 due | Linear systems of Differential Equations | . | Nov 16th - Nov 22nd | Nov 17, 2026 | LQ7 | The method of elimination |   |   | . |   | Nov 19, 2026 |   | Martices and linear systems; The Eigenvalue method for homogenous systems |   |   | . | Nov 23rd - Nov 29th | Nov 24, 2026 | Thanksgiving Break |   |   |   | . |   | Nov 26, 2026 |   |   |   |   | . | Nov 30th - Dec 6th | Dec 1, 2026 | LQ8 | Second order systems and mechanical applications |   | Linear systems of Differential Equations (continued) | . |   | Dec 3, 2026 |   | Multiple Eigenvalues solutions; Martrix exponentials and linear systems |   |   | . | Dec 7th - Dec 13th | Dec 8, 2026 | RQ5 | Nonhomogeneoous linear systems | HW5 due |   | . |   |   |   |   |   |   | . | Dec 11th - Dec 17th | Dec 15, 2026 | Exam-2: Power Series, Laplace Transform, and First and Second Order System of Equations |   |   |   | . |   | Dec 17, 2026 | Make-up Exam |   |   |   | . ",
     "url": "/fall2026/docs/Schedule/#course-schedule",
     
     "relUrl": "/docs/Schedule/#course-schedule"
@@ -1170,7 +1170,7 @@
   },"167": {
     "doc": "Notes",
     "title": "Table of contents",
-    "content": ". | First-Order ODEs Notes-set1 | First-Order ODEs Notes-set2 | First-Order ODEs Notes-set3 | First-Order ODEs Example-Pset1 | Cheat sheet for the Classification of Ordinary Differential Equations | . ",
+    "content": ". | First-Order ODEs Notes-set1 | First-Order ODEs Notes-set2 | First-Order ODEs Notes-set3 | First-Order ODEs Notes-set4 | First-Order ODEs Notes-set5 | First-Order ODEs Example-Pset1 | Cheat sheet for the Classification of Ordinary Differential Equations | . ",
     "url": "/fall2026/docs/Notes/#table-of-contents",
     
     "relUrl": "/docs/Notes/#table-of-contents"
@@ -1197,831 +1197,845 @@
     "relUrl": "/docs/Notes/#first-order-odes-notes-set3"
   },"171": {
     "doc": "Notes",
+    "title": "First-Order ODEs Notes-set4",
+    "content": "This browser does not support PDFs. Please download the PDF to view it: Download PDF ",
+    "url": "/fall2026/docs/Notes/#first-order-odes-notes-set4",
+    
+    "relUrl": "/docs/Notes/#first-order-odes-notes-set4"
+  },"172": {
+    "doc": "Notes",
+    "title": "First-Order ODEs Notes-set5",
+    "content": "This browser does not support PDFs. Please download the PDF to view it: Download PDF ",
+    "url": "/fall2026/docs/Notes/#first-order-odes-notes-set5",
+    
+    "relUrl": "/docs/Notes/#first-order-odes-notes-set5"
+  },"173": {
+    "doc": "Notes",
     "title": "First-Order ODEs Example-Pset1",
     "content": "This browser does not support PDFs. Please download the PDF to view it: Download PDF ",
     "url": "/fall2026/docs/Notes/#first-order-odes-example-pset1",
     
     "relUrl": "/docs/Notes/#first-order-odes-example-pset1"
-  },"172": {
+  },"174": {
     "doc": "Notes",
     "title": "Cheat sheet for the Classification of Ordinary Differential Equations",
     "content": " ",
     "url": "/fall2026/docs/Notes/#cheat-sheet-for-the-classification-of-ordinary-differential-equations",
     
     "relUrl": "/docs/Notes/#cheat-sheet-for-the-classification-of-ordinary-differential-equations"
-  },"173": {
+  },"175": {
     "doc": "Notes",
     "title": "Notes",
     "content": "Referencing the content in this webpage: . Bulusu, Kartik V. (2026, August 24). APSC 2113: Engineering Analysis I [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University. ",
     "url": "/fall2026/docs/Notes/",
     
     "relUrl": "/docs/Notes/"
-  },"174": {
+  },"176": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
     "url": "/fall2026/docs/utilities/",
     
     "relUrl": "/docs/utilities/"
-  },"175": {
+  },"177": {
     "doc": "MUST DO Software Installations",
     "title": "Software Installations and checks",
     "content": " ",
     "url": "/fall2026/docs/Schedule/install-editor/#software-installations-and-checks",
     
     "relUrl": "/docs/Schedule/install-editor/#software-installations-and-checks"
-  },"176": {
+  },"178": {
     "doc": "MUST DO Software Installations",
     "title": "Table of contents",
     "content": ". | Installation instructions . | Select an option appropriate for your operating system . | MacOS: | Windows: | . | . | Additional information on remote access software: VNC® Viewer | . ",
     "url": "/fall2026/docs/Schedule/install-editor/#table-of-contents",
     
     "relUrl": "/docs/Schedule/install-editor/#table-of-contents"
-  },"177": {
+  },"179": {
     "doc": "MUST DO Software Installations",
     "title": "Installation instructions",
     "content": "The following installations are required on your personal computers to move forward in this course and need to be completed on the first meeting day: . ",
     "url": "/fall2026/docs/Schedule/install-editor/#installation-instructions",
     
     "relUrl": "/docs/Schedule/install-editor/#installation-instructions"
-  },"178": {
+  },"180": {
     "doc": "MUST DO Software Installations",
     "title": "Select an option appropriate for your operating system",
     "content": "Mac OS Windows . MacOS: . | Step 0: Install GWU Virtual Private Network (VPN) Client for Mac OS 12+ . | Follow installation instructions here | . | Step 1: Install Real VNC Viewer for Mac OS 12+ . | Download the installation file here | Follow installation instructions here | . | Step 2: Install Thonny Python . | Download the installation file here | Follow installation instructions- Thonny Python IDE for macOS | . | Step 3: Download and install Anaconda for macOS . | Step 4: Download and install VS Code for macOS . | Step 5: Install Git for Mac: Check wiki-page to learn what Git is all about . | Git may already be installed on your Mac. | Follow installation instructions to check your git-installation here | . | Step 6: Create a GitHub account . | If you already have a GitHub account you may skip this step | Otherwise, follow instructions here | . | Step 7: Create a GitHub repo . | Follow instructions here | . | Step 8: Download and install Chrome web browser . | Skip this step if you already have Chrome installed on your laptop. | . | Step 9: Connect to a GWU Computing lab computer . | Follow installation instructions here | . | Step 10: Note: SolidWorks cannot be installed on MacOS computers. MacOS users can remotely connect to a GWU Computing Lab computer and access it. &lt;!– - Step 8: Create a free ThingSpeak account . | This step requires Step 2 to be completed as some codes involving web applications may work better on the Chrome browser. | Follow the steps on this page ThingSpeak to finish account creation. –&gt; | . | . Windows: . | Step 0: Install GWU Virtual Private Network (VPN) Client for Windows 10+ . | Follow installation instructions here | . | Step 1: Install Real VNC Viewer for Windows 10+ . | Download the installation file here | Follow installation instructions here | . | Step 2: Install Thonny Python . | Download the installation file here | Follow installation instructions- Thonny Python IDE for Windows | . | Step 3: Download and install Anaconda for Windows . | Step 4: Download and install VS Code for Windows . | Step 5: Install Git for Windows: Check wiki-page to learn what Git is all about . | Follow installations instructions here | . | Step 6: Create a GitHub account . | If you already have a GitHub account you may skip this step | Otherwise, follow instructions here | . | Step 7: Create a GitHub repo . | Follow instructions here | . | Step 8: Download and install Chrome web browser . | Skip this step if you already have Chrome installed on your laptop. | . | Step 9: Connect to a GWU Computing lab computer . | Follow installation instructions here | . | Step 10: Install SolidWorks for Windows (Optional) . | Follow installation instructions here | . | . ",
     "url": "/fall2026/docs/Schedule/install-editor/#select-an-option-appropriate-for-your-operating-system",
     
     "relUrl": "/docs/Schedule/install-editor/#select-an-option-appropriate-for-your-operating-system"
-  },"179": {
+  },"181": {
     "doc": "MUST DO Software Installations",
     "title": "Additional information on remote access software: VNC® Viewer",
     "content": "VNC® Viewer is a remote access software application, that facilitates exchange data over the RFB protocol to allow the Viewer to control the Server’s screen remotely. Source: Wiki . | How do I install VNC® Viewer? | . Just run the installer on the device you want to control from and follow the instructions, or there are MSIs for remote deployment under Windows. If you don’t have permission to install VNC® Viewer on desktop platforms, choose the standalone option. Source: Real VNC FAQs . | How do I control a remote computer? | . If you have a keyboard and mouse in front of you, use them as you would normally. We don’t recommend the use of a mobile device for this workshop. However, if you’re on a mobile device, then your touchscreen acts as a mouse trackpad, with gestures mapped to mouse buttons. Source: Real VNC FAQs . | Do I need to license the software? No. VNC ® Viewer is always free to use. Just accept the EULA the first time you run. | . Source: Real VNC FAQs . ",
     "url": "/fall2026/docs/Schedule/install-editor/#additional-information-on-remote-access-software-vnc-viewer",
     
     "relUrl": "/docs/Schedule/install-editor/#additional-information-on-remote-access-software-vnc-viewer"
-  },"180": {
+  },"182": {
     "doc": "MUST DO Software Installations",
     "title": "MUST DO Software Installations",
     "content": "Referencing the content in this webpage: . Bulusu, Kartik V. (2026, October 17). Introduction to Mechanical and Aerospace Engineering [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University. READ ME before you start installations on your personal computer: . The course is designed with active learning modules with a limited number of hardware components. It is required that these softwares be installed and working on your computers so that you may connect to the hardware provided and execute programs effectively. You are strongly encouraged to bring your own personal machine or laptop and participate with the prerequisites installed. Only Windows 10+ or Macintosh 12+ computers with QWERTY keyboards are supported for this course. The instructor has limited time to troubleshoot any OS-related problems. The QWERTY (pronounced KWEHR-tee) keyboard is the standard typewriter and computer keyboard in countries that use a Latin-based alphabet. Linux OS-based laptops / personal computers and mobile /handheld-devices are not supported this semester for in-class usage on your personal machine. Raspberry Pi 4B with Raspberry Pi OS will be in all devices supplied during the course. Raspberry Pi OS is a Unix-like operating system based on the Debian Linux distribution for the Raspberry Pi family of compact single-board computers. Source: wikipedia . You are strongly encouraged to bring your own personal machine or laptop and participate with the prerequisites installed. Follow the instructions provided carefully and complete the required installations needed for this workshop. (See prerequisites) . You will be automatically entered into a raffle in the workshop on 10/17/2026 if you complete the installation check-in form. ",
     "url": "/fall2026/docs/Schedule/install-editor/",
     
     "relUrl": "/docs/Schedule/install-editor/"
-  },"181": {
+  },"183": {
     "doc": "Instruction Team",
     "title": "Instrution Team",
     "content": " ",
     "url": "/fall2026/instructor/#instrution-team",
     
     "relUrl": "/instructor/#instrution-team"
-  },"182": {
+  },"184": {
     "doc": "Instruction Team",
     "title": "Table of contents",
     "content": ". | Dr. Kartik Bulusu (Instructor) | ​Preethi Siva Kumar (Graduate Instructional Assistant) | . ",
     "url": "/fall2026/instructor/#table-of-contents",
     
     "relUrl": "/instructor/#table-of-contents"
-  },"183": {
+  },"185": {
     "doc": "Instruction Team",
     "title": "Dr. Kartik Bulusu (Instructor)",
     "content": "| Dr. Kartik V. Bulusu is an Associate Research Professor in the Department of Mechanical and Aerospace Engineering at The George Washington University, Washington DC. He curated a cross-disciplinary course titled, Internet of Things (IoT) and Edge Computing with applications in cyber-physical systems and speech processing. In addition, he developed courses for first year engineering students on the engineering applications of Raspberry Pi, Python programming and mobile App development inspired by social innovation potential during the COVID-19 pandemic. His research interests span the areas of human health and sustainable energy with a focus on mechanics of biological fluids, low-cost energy technologies and applications of wavelet transforms. His current research work on biofluid dynamics of the cardiovasculature, rheology of biological fluids and applications of wavelet transforms has been supported by NSF and the Center for Biomimetics and Bioinspired Engineering (CBBE), GWU. He developed a wavelet transform-based computational code (PIVlet) for the analysis of complex vortical patterns encountered in arterial blood flow. He has extensive knowledge of experimental fluid mechanics and non-invasive measurement techniques such as laser Doppler velocimetry (LDV), particle image velocimetry (PIV), schlieren imagery, magnetic resonance velocimetry (MRV) and molecular tagging velocimetry (MTV). Dr. Bulusu was recognized with the ASME Best Paper Award by the Advanced Energy Systems Division (AESD) Heat Pump Technical Committee, William and Louise Corcoron Award for contributing to the intellectual and social life and the Bender award for teaching excellence in the School of Engineering and Applied Science, GWU. | Campus Address: SEH 4615 Email: bulusu at email dot gwu dot edu Web LinkedIn | . ",
     "url": "/fall2026/instructor/#dr-kartik-bulusu-instructor",
     
     "relUrl": "/instructor/#dr-kartik-bulusu-instructor"
-  },"184": {
+  },"186": {
     "doc": "Instruction Team",
     "title": "​Preethi Siva Kumar (Graduate Instructional Assistant)",
     "content": "| I am ​Preethi Siva Kumar, graduate student in the Department of Mechanical and Aerospace Engineering. My research focuses on computational fluid dynamics, and I am currently working with Dr. Kartik Bulusu in the Biofluid Dynamics Lab. My work explores cardiovascular flow and the physiological effects of blood rheology. ​Before beginning my graduate studies, I earned my undergraduate degree in Aeronautical Engineering and gained practical experience in aerodynamics and controls by competing in competitions like SAE Aero Design and AIAA Design/Build/Fly. I am experienced as a software developer where I worked with JavaScript and Python. ​When I am not in the lab, I enjoy visiting museums and working hard to keep myhouseplants alive. I am looking for name suggestions for my new cactus, so feel free to share your ideas at my email below! | Office hours and Location: TBA Email: preethis at gwu dot edu LinkedIn | . ",
     "url": "/fall2026/instructor/#preethi-siva-kumar-graduate-instructional-assistant",
     
     "relUrl": "/instructor/#preethi-siva-kumar-graduate-instructional-assistant"
-  },"185": {
+  },"187": {
     "doc": "Instruction Team",
     "title": "Instruction Team",
     "content": "Referencing the content in this webpage: . Bulusu, Kartik V. (2026, August 24). APSC 2113: Engineering Analysis I [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University. ",
     "url": "/fall2026/instructor/",
     
     "relUrl": "/instructor/"
-  },"186": {
+  },"188": {
     "doc": "Labels",
     "title": "Labels",
     "content": "Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue. Default label . Blue label . Stable . New release . Coming soon . Deprecated . Default label {: .label } Blue label {: .label .label-blue } Stable {: .label .label-green } New release {: .label .label-purple } Coming soon {: .label .label-yellow } Deprecated {: .label .label-red } . ",
     "url": "/fall2026/docs/Schedule/labels/",
     
     "relUrl": "/docs/Schedule/labels/"
-  },"187": {
+  },"189": {
     "doc": "Labels",
     "title": "Labels",
     "content": "Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue. Default label . Blue label . Stable . New release . Coming soon . Deprecated . Default label {: .label } Blue label {: .label .label-blue } Stable {: .label .label-green } New release {: .label .label-purple } Coming soon {: .label .label-yellow } Deprecated {: .label .label-red } . ",
     "url": "/fall2026/docs/ui-components/labels/",
     
     "relUrl": "/docs/ui-components/labels/"
-  },"188": {
+  },"190": {
     "doc": "Layout",
     "title": "Layout Utilities",
     "content": " ",
     "url": "/fall2026/docs/utilities/layout/#layout-utilities",
     
     "relUrl": "/docs/utilities/layout/#layout-utilities"
-  },"189": {
+  },"191": {
     "doc": "Layout",
     "title": "Table of contents",
     "content": ". | Spacing | Horizontal Alignment | Vertical Alignment | Display | . ",
     "url": "/fall2026/docs/utilities/layout/#table-of-contents",
     
     "relUrl": "/docs/utilities/layout/#table-of-contents"
-  },"190": {
+  },"192": {
     "doc": "Layout",
     "title": "Spacing",
     "content": "These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively. | Classname prefix | Related CSS Property | . | .m- | margin | . | .mx- | margin-left, margin-right | . | .my- | margin top, margin bottom | . | .mt- | margin-top | . | .mr- | margin-right | . | .mb- | margin-bottom | . | .ml- | margin-left | . | Classname prefix | Related CSS Property | . | .p- | padding | . | .px- | padding-left, padding-right | . | .py- | padding top, padding bottom | . | .pt- | padding-top | . | .pr- | padding-right | . | .pb- | padding-bottom | . | .pl- | padding-left | . Spacing values are based on a 1rem = 16px spacing scale, broken down into these units: . | Spacer/suffix | Size in rems | Rem converted to px | . | 1 | 0.25rem | 4px | . | 2 | 0.5rem | 8px | . | 3 | 0.75rem | 12px | . | 4 | 1rem | 16px | . | 5 | 1.5rem | 24px | . | 6 | 2rem | 32px | . | 7 | 2.5rem | 40px | . | 8 | 3rem | 48px | . | auto | auto | auto | . Use mx-auto to horizontally center elements. Applying Spacing Utilities with {: } . In Markdown, use the {: } wrapper to apply custom classes: . This paragraph will have a margin bottom of 1rem/16px on large screens. {: .mb-lg-4 } This paragraph will have 2rem/32px of padding on the right and left at all screen sizes. {: .px-6 } . ",
     "url": "/fall2026/docs/utilities/layout/#spacing",
     
     "relUrl": "/docs/utilities/layout/#spacing"
-  },"191": {
+  },"193": {
     "doc": "Layout",
     "title": "Horizontal Alignment",
     "content": "| CSS Class | Applied CSS Declaration | . | .float-left | float: left | . | .float-right | float: right | . | .flex-justify-start | justify-content: flex-start | . | .flex-justify-end | justify-content: flex-end | . | .flex-justify-between | justify-content: space-between | . | .flex-justify-around | justify-content: space-around | . Note: any of the flex- classes must be used on a parent element that has d-flex applied to it. ",
     "url": "/fall2026/docs/utilities/layout/#horizontal-alignment",
     
     "relUrl": "/docs/utilities/layout/#horizontal-alignment"
-  },"192": {
+  },"194": {
     "doc": "Layout",
     "title": "Vertical Alignment",
     "content": "| CSS Class | Applied CSS Declaration | . | .v-align-baseline | vertical-align: baseline | . | .v-align-bottom | vertical-align: bottom | . | .v-align-middle | vertical-align: middle | . | .v-align-text-bottom | vertical-align: text-bottom | . | .v-align-text-top | vertical-align: text-top | . | .v-align-top | vertical-align: top | . ",
     "url": "/fall2026/docs/utilities/layout/#vertical-alignment",
     
     "relUrl": "/docs/utilities/layout/#vertical-alignment"
-  },"193": {
+  },"195": {
     "doc": "Layout",
     "title": "Display",
     "content": "Display classes aid in adapting the layout of the elements on a page: . | CSS Class | Applied CSS Declaration | . | .d-block | display: block | . | .d-flex | display: flex | . | .d-inline | display: inline | . | .d-inline-block | display: inline-block | . | .d-none | display: none | . Use these classes in conjunction with the responsive modifiers. Applying Display Utilities with {: } . In Markdown, use the {: } wrapper to apply custom classes: . This button will be hidden until medium screen sizes: [ A button ](#url) {: .d-none .d-md-inline-block } These headings will be `inline-block`: ### heading 3 {: .d-inline-block } ### heading 3 {: .d-inline-block } . ",
     "url": "/fall2026/docs/utilities/layout/#display",
     
     "relUrl": "/docs/utilities/layout/#display"
-  },"194": {
+  },"196": {
     "doc": "Layout",
     "title": "Layout",
     "content": " ",
     "url": "/fall2026/docs/utilities/layout/",
     
     "relUrl": "/docs/utilities/layout/"
-  },"195": {
+  },"197": {
     "doc": "Layout",
     "title": "Layout",
     "content": "You specify the layout for a page in its front matter. Just the Docs has a default layout with a sidebar, used for almost all pages in the theme docs, and a minimal layout that omits the sidebar. ",
     "url": "/fall2026/docs/layout/layout/",
     
     "relUrl": "/docs/layout/layout/"
-  },"196": {
+  },"198": {
     "doc": "Layout",
     "title": "The layout concept",
     "content": "See the Jekyll docs page about layouts for an explanation of the general idea of layouts and how to specify them. You can use Jekyll’s front matter defaults to specify the same layout for many pages. ",
     "url": "/fall2026/docs/layout/layout/#the-layout-concept",
     
     "relUrl": "/docs/layout/layout/#the-layout-concept"
-  },"197": {
+  },"199": {
     "doc": "Layout",
     "title": "The default layout",
     "content": "This page uses the default layout. This site configures layout: default as a front matter default value for all pages in the docs directory. The default layout of Just the Docs is a responsive layout: on medium and larger width displays, it displays a sidebar, including a navigation panel; on smaller width displays, the sidebar is automatically hidden under a button. All pages except top-level pages automatically have a list of so-called breadcrumbs: links to their parent pages and any higher-level ancestors. They show the breadcrumbs above the main content of the page. Each page that has child pages generally has a list of links to those pages (you can suppress it by has_toc: false in the front matter). It shows the list as a table of contents below the main content. ",
     "url": "/fall2026/docs/layout/layout/#the-default-layout",
     
     "relUrl": "/docs/layout/layout/#the-default-layout"
-  },"198": {
+  },"200": {
     "doc": "Layout",
     "title": "The minimal layout",
     "content": "A child and grandchild page of this page use the minimal layout. This differs from the default layout by omitting the sidebar—and thereby also the navigation panel. To navigate between pages with the minimal layout, you can use the breadcrumbs and the tables of contents. ",
     "url": "/fall2026/docs/layout/layout/#the-minimal-layout",
     
     "relUrl": "/docs/layout/layout/#the-minimal-layout"
-  },"199": {
+  },"201": {
     "doc": "Layout",
     "title": "Selectively hiding or showing the sidebar",
     "content": "Jekyll’s front matter defaults can be used to apply the minimal layout for many pages. But there are also other variables that can control the page layout. In _config.yml, you can set nav_enabled: false to disable the sidebar navigation panel across the entire site. This can then be selectively enabled on a page-by-page basis by assigning the nav_enabled: true page front matter variable. For instance, this could be used to enable sidebar navigation on a home page while all other pages have sidebar navigation disabled. --- layout: default title: Home nav_enabled: true --- . ",
     "url": "/fall2026/docs/layout/layout/#selectively-hiding-or-showing-the-sidebar",
     
     "relUrl": "/docs/layout/layout/#selectively-hiding-or-showing-the-sidebar"
-  },"200": {
+  },"202": {
     "doc": "Layout",
     "title": "Other layouts",
     "content": "Just the Docs has further layouts: about, home, page, and post. Currently, they are all based on the default layout. See the Jekyll docs about inheritance for how to customize them. ",
     "url": "/fall2026/docs/layout/layout/#other-layouts",
     
     "relUrl": "/docs/layout/layout/#other-layouts"
-  },"201": {
+  },"203": {
     "doc": "Page Levels",
     "title": "Page Levels",
     "content": "Sometimes you will want to create a page with many children. First, it is recommended that you store related pages together in a directory. For example, in these docs, we keep all of the written documentation pages in the ./docs directory, and each of the sections in subdirectories like ./docs/ui-components and ./docs/utilities. This gives us an organization like this: . ┌─ ... ├─ (Jekyll files) ├─ docs ├─ configuration.md ├─ ui-components ├─ index.md (parent page) ├─ buttons.md ├─ callouts.md ├─ code ├─ index.md (parent page) └─ line-numbers.md ├─ labels.md ├─ tables.md └─ typography.md ├─ ... └─ MIGRATION.md ├─ index.md (home page) ├─ (Jekyll files) └─ ... ",
     "url": "/fall2026/docs/navigation/main/levels/",
     
     "relUrl": "/docs/navigation/main/levels/"
-  },"202": {
+  },"204": {
     "doc": "Page Levels",
     "title": "Example: page with no parents",
     "content": "--- title: UI Components nav_order: 3 --- . Here we’re setting up the UI Components landing page that is available at URL /docs/ui-components, which is ordered second in the main navigation. The navigation links for all pages with children come with an expander. When you click the expander, the display of the children is toggled, so you can expand or collapse all the children displays, regardless of which page is currently active. ",
     "url": "/fall2026/docs/navigation/main/levels/#example-page-with-no-parents",
     
     "relUrl": "/docs/navigation/main/levels/#example-page-with-no-parents"
-  },"203": {
+  },"205": {
     "doc": "Page Levels",
     "title": "Child Pages",
     "content": "On child pages, simply set the parent front matter to the parent page’s title, and set a navigation order (relative to pages having the same parent). Example: creating a child page . --- title: Buttons parent: UI Components nav_order: 2 --- . The Buttons page appears as a child of UI Components and appears second in the UI Components pages. New (v0.10.0) . The has_children field is now redundant (and ignored, except when significant for backwards compatibility). ",
     "url": "/fall2026/docs/navigation/main/levels/#child-pages",
     
     "relUrl": "/docs/navigation/main/levels/#child-pages"
-  },"204": {
+  },"206": {
     "doc": "Page Levels",
     "title": "Multi-level Child Pages",
     "content": "Child pages can themselves have children, to any number of levels. Example: pages with (recursive) children . --- title: Main Navigation parent: Navigation nav_order: 1 --- . --- title: Ancestry parent: Main Navigation nav_order: 4 --- . --- title: X parent: Ancestry --- . --- title: Y parent: Ancestry --- . This creates the following navigation structure: . ┌─ ... ├─ ... ├─ Navigation ├─ ... ├─ Main Navigation ├─ ... ├─ Ancestry ├─ X └─ Y ├─ ... └─ ... ├─ ... └─ ... ├─ ... └─ ... ",
     "url": "/fall2026/docs/navigation/main/levels/#multi-level-child-pages",
     
     "relUrl": "/docs/navigation/main/levels/#multi-level-child-pages"
-  },"205": {
+  },"207": {
     "doc": "Line Numbers",
     "title": "Code Snippets with Line Numbers",
     "content": "In prior versions of the docs, we provided “workarounds” to rendering issues arising from code snippets with line numbers. While these seemed to resolve visual layout issues, they did not resolve core issues with Jekyll generating invalid HTML. See the detailed explanation for more information. The default settings for HTML compression are incompatible with the HTML produced by Jekyll for line numbers from highlighted code – both when using Kramdown code fences and when using Liquid highlight tags. To avoid non-conforming HTML and unsatisfactory layout, HTML compression can be turned off by using the following configuration option: . compress_html: ignore: envs: all . When using Kramdown code fences, line numbers are turned on globally by the following configuration option: . kramdown: syntax_highlighter_opts: block: line_numbers: true . Line numbers can then be suppressed locally using Liquid tags (without the linenos option) instead of fences: . {% highlight some_language %} Some code {% endhighlight %} . ",
     "url": "/fall2026/docs/Schedule/code/line-numbers/#code-snippets-with-line-numbers",
     
     "relUrl": "/docs/Schedule/code/line-numbers/#code-snippets-with-line-numbers"
-  },"206": {
+  },"208": {
     "doc": "Line Numbers",
     "title": "Detailed Error Explanation",
     "content": "Consider this following code snippet, intended to highlight a simple Ruby program: . {% highlight ruby linenos %} def foo puts 'foo' end {% endhighlight %} . If this is directly placed within a file processed by Jekyll (via Just the Docs, with HTML compression enabled), the following markup will be generated: . &lt;figure class=\"highlight\"&gt;&gt;&lt;code class=\"language-ruby\" data-lang=\"ruby\"&gt;&lt;div class=\"table-wrapper\"&gt;&lt;table class=\"rouge-table\"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=\"gutter gl\"&gt;&lt;pre class=\"lineno\"&gt;1 2 3 &lt;/pre&gt;&lt;td class=\"code\"&gt;&lt;pre&gt;&lt;span class=\"k\"&gt;def&lt;/span&gt; &lt;span class=\"nf\"&gt;foo&lt;/span&gt; &lt;span class=\"nb\"&gt;puts&lt;/span&gt; &lt;span class=\"s1\"&gt;'foo'&lt;/span&gt; &lt;span class=\"k\"&gt;end&lt;/span&gt; &lt;/pre&gt;&lt;/figure&gt; . This HTML is invalid; in particular, there are two issues: . | there are many missing closing tags, and a superfluous &gt;, which produce visually garbled output | a &lt;table&gt; is placed within a &lt;code&gt; element, which is syntactically invalid HTML (but is often allowed by browsers) | . To emphasize this first difference, here is the same markup output, indented by tag: . &lt;figure class=\"highlight\"&gt; &gt; &lt;code class=\"language-ruby\" data-lang=\"ruby\"&gt; &lt;div class=\"table-wrapper\"&gt; &lt;table class=\"rouge-table\"&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td class=\"gutter gl\"&gt; &lt;pre class=\"lineno\"&gt; 1 2 3 &lt;/pre&gt; &lt;td class=\"code\"&gt; &lt;pre&gt; &lt;span class=\"k\"&gt;def&lt;/span&gt; &lt;span class=\"nf\"&gt;foo&lt;/span&gt; &lt;span class=\"nb\"&gt;puts&lt;/span&gt; &lt;span class=\"s1\"&gt;'foo'&lt;/span&gt; &lt;span class=\"k\"&gt;end&lt;/span&gt; &lt;/pre&gt; &lt;/figure&gt; . In order, there are missing &lt;/td&gt;, &lt;/td&gt;, &lt;/tr&gt;, &lt;/tbody&gt;, &lt;/table&gt;, &lt;/div&gt;, and &lt;/code&gt; tags. As a result, the following elements of the page - including the site footer - become visually garbled as browsers attempt to recover gracefully. Prior workarounds we suggested (such as Dmitry Hrabrov’s in jekyll-compress-html#71) resolve the missing tag problem. However, they still place a &lt;table&gt; within a &lt;code&gt; element. The HTML spec normatively states that &lt;code&gt; elements should only contain “phrasing content”, which does not include &lt;table&gt; (spec ref). To avoid incorrectly rendered HTML, the previously-suggested workaround using the current version of _includes/fix_linenos.html should not be used! . ",
     "url": "/fall2026/docs/Schedule/code/line-numbers/#detailed-error-explanation",
     
     "relUrl": "/docs/Schedule/code/line-numbers/#detailed-error-explanation"
-  },"207": {
+  },"209": {
     "doc": "Line Numbers",
     "title": "Line Numbers",
     "content": " ",
     "url": "/fall2026/docs/Schedule/code/line-numbers/",
     
     "relUrl": "/docs/Schedule/code/line-numbers/"
-  },"208": {
+  },"210": {
     "doc": "Line Numbers",
     "title": "Code Snippets with Line Numbers",
     "content": "In prior versions of the docs, we provided “workarounds” to rendering issues arising from code snippets with line numbers. While these seemed to resolve visual layout issues, they did not resolve core issues with Jekyll generating invalid HTML. See the detailed explanation for more information. The default settings for HTML compression are incompatible with the HTML produced by Jekyll for line numbers from highlighted code – both when using Kramdown code fences and when using Liquid highlight tags. To avoid non-conforming HTML and unsatisfactory layout, HTML compression can be turned off by using the following configuration option: . compress_html: ignore: envs: all . When using Kramdown code fences, line numbers are turned on globally by the following configuration option: . kramdown: syntax_highlighter_opts: block: line_numbers: true . Line numbers can then be suppressed locally using Liquid tags (without the linenos option) instead of fences: . {% highlight some_language %} Some code {% endhighlight %} . ",
     "url": "/fall2026/docs/ui-components/code/line-numbers/#code-snippets-with-line-numbers",
     
     "relUrl": "/docs/ui-components/code/line-numbers/#code-snippets-with-line-numbers"
-  },"209": {
+  },"211": {
     "doc": "Line Numbers",
     "title": "Detailed Error Explanation",
     "content": "Consider this following code snippet, intended to highlight a simple Ruby program: . {% highlight ruby linenos %} def foo puts 'foo' end {% endhighlight %} . If this is directly placed within a file processed by Jekyll (via Just the Docs, with HTML compression enabled), the following markup will be generated: . &lt;figure class=\"highlight\"&gt;&gt;&lt;code class=\"language-ruby\" data-lang=\"ruby\"&gt;&lt;div class=\"table-wrapper\"&gt;&lt;table class=\"rouge-table\"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=\"gutter gl\"&gt;&lt;pre class=\"lineno\"&gt;1 2 3 &lt;/pre&gt;&lt;td class=\"code\"&gt;&lt;pre&gt;&lt;span class=\"k\"&gt;def&lt;/span&gt; &lt;span class=\"nf\"&gt;foo&lt;/span&gt; &lt;span class=\"nb\"&gt;puts&lt;/span&gt; &lt;span class=\"s1\"&gt;'foo'&lt;/span&gt; &lt;span class=\"k\"&gt;end&lt;/span&gt; &lt;/pre&gt;&lt;/figure&gt; . This HTML is invalid; in particular, there are two issues: . | there are many missing closing tags, and a superfluous &gt;, which produce visually garbled output | a &lt;table&gt; is placed within a &lt;code&gt; element, which is syntactically invalid HTML (but is often allowed by browsers) | . To emphasize this first difference, here is the same markup output, indented by tag: . &lt;figure class=\"highlight\"&gt; &gt; &lt;code class=\"language-ruby\" data-lang=\"ruby\"&gt; &lt;div class=\"table-wrapper\"&gt; &lt;table class=\"rouge-table\"&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td class=\"gutter gl\"&gt; &lt;pre class=\"lineno\"&gt; 1 2 3 &lt;/pre&gt; &lt;td class=\"code\"&gt; &lt;pre&gt; &lt;span class=\"k\"&gt;def&lt;/span&gt; &lt;span class=\"nf\"&gt;foo&lt;/span&gt; &lt;span class=\"nb\"&gt;puts&lt;/span&gt; &lt;span class=\"s1\"&gt;'foo'&lt;/span&gt; &lt;span class=\"k\"&gt;end&lt;/span&gt; &lt;/pre&gt; &lt;/figure&gt; . In order, there are missing &lt;/td&gt;, &lt;/td&gt;, &lt;/tr&gt;, &lt;/tbody&gt;, &lt;/table&gt;, &lt;/div&gt;, and &lt;/code&gt; tags. As a result, the following elements of the page - including the site footer - become visually garbled as browsers attempt to recover gracefully. Prior workarounds we suggested (such as Dmitry Hrabrov’s in jekyll-compress-html#71) resolve the missing tag problem. However, they still place a &lt;table&gt; within a &lt;code&gt; element. The HTML spec normatively states that &lt;code&gt; elements should only contain “phrasing content”, which does not include &lt;table&gt; (spec ref). To avoid incorrectly rendered HTML, the previously-suggested workaround using the current version of _includes/fix_linenos.html should not be used! . ",
     "url": "/fall2026/docs/ui-components/code/line-numbers/#detailed-error-explanation",
     
     "relUrl": "/docs/ui-components/code/line-numbers/#detailed-error-explanation"
-  },"210": {
+  },"212": {
     "doc": "Line Numbers",
     "title": "Line Numbers",
     "content": " ",
     "url": "/fall2026/docs/ui-components/code/line-numbers/",
     
     "relUrl": "/docs/ui-components/code/line-numbers/"
-  },"211": {
+  },"213": {
     "doc": "Lists",
     "title": "Lists",
     "content": " ",
     "url": "/fall2026/docs/Schedule/lists/",
     
     "relUrl": "/docs/Schedule/lists/"
-  },"212": {
+  },"214": {
     "doc": "Lists",
     "title": "Table of contents",
     "content": ". | Unordered list | Ordered list | Task list | Definition list | . Most lists can be rendered with pure Markdown. ",
     "url": "/fall2026/docs/Schedule/lists/#table-of-contents",
     
     "relUrl": "/docs/Schedule/lists/#table-of-contents"
-  },"213": {
+  },"215": {
     "doc": "Lists",
     "title": "Unordered list",
     "content": ". | Item 1 | Item 2 | Item 3 | . or . | Item 1 | Item 2 | Item 3 | . - Item 1 - Item 2 - Item 3 _or_ * Item 1 * Item 2 * Item 3 . ",
     "url": "/fall2026/docs/Schedule/lists/#unordered-list",
     
     "relUrl": "/docs/Schedule/lists/#unordered-list"
-  },"214": {
+  },"216": {
     "doc": "Lists",
     "title": "Ordered list",
     "content": ". | Item 1 | Item 2 | Item 3 | . 1. Item 1 1. Item 2 1. Item 3 . ",
     "url": "/fall2026/docs/Schedule/lists/#ordered-list",
     
     "relUrl": "/docs/Schedule/lists/#ordered-list"
-  },"215": {
+  },"217": {
     "doc": "Lists",
     "title": "Task list",
     "content": ". | hello, this is a todo item | hello, this is another todo item | goodbye, this item is done | . - [ ] hello, this is a todo item - [ ] hello, this is another todo item - [x] goodbye, this item is done . ",
     "url": "/fall2026/docs/Schedule/lists/#task-list",
     
     "relUrl": "/docs/Schedule/lists/#task-list"
-  },"216": {
+  },"218": {
     "doc": "Lists",
     "title": "Definition list",
     "content": "Definition lists require HTML syntax and aren’t supported with the GitHub Flavored Markdown compiler. Name Godzilla Born 1952 Birthplace Japan Color Green &lt;dl&gt; &lt;dt&gt;Name&lt;/dt&gt; &lt;dd&gt;Godzilla&lt;/dd&gt; &lt;dt&gt;Born&lt;/dt&gt; &lt;dd&gt;1952&lt;/dd&gt; &lt;dt&gt;Birthplace&lt;/dt&gt; &lt;dd&gt;Japan&lt;/dd&gt; &lt;dt&gt;Color&lt;/dt&gt; &lt;dd&gt;Green&lt;/dd&gt; &lt;/dl&gt; . ",
     "url": "/fall2026/docs/Schedule/lists/#definition-list",
     
     "relUrl": "/docs/Schedule/lists/#definition-list"
-  },"217": {
+  },"219": {
     "doc": "Lists",
     "title": "Lists",
     "content": " ",
     "url": "/fall2026/docs/ui-components/lists/",
     
     "relUrl": "/docs/ui-components/lists/"
-  },"218": {
+  },"220": {
     "doc": "Lists",
     "title": "Table of contents",
     "content": ". | Unordered list | Ordered list | Task list | Definition list | . Most lists can be rendered with pure Markdown. ",
     "url": "/fall2026/docs/ui-components/lists/#table-of-contents",
     
     "relUrl": "/docs/ui-components/lists/#table-of-contents"
-  },"219": {
+  },"221": {
     "doc": "Lists",
     "title": "Unordered list",
     "content": ". | Item 1 | Item 2 | Item 3 | . or . | Item 1 | Item 2 | Item 3 | . - Item 1 - Item 2 - Item 3 _or_ * Item 1 * Item 2 * Item 3 . ",
     "url": "/fall2026/docs/ui-components/lists/#unordered-list",
     
     "relUrl": "/docs/ui-components/lists/#unordered-list"
-  },"220": {
+  },"222": {
     "doc": "Lists",
     "title": "Ordered list",
     "content": ". | Item 1 | Item 2 | Item 3 | . 1. Item 1 1. Item 2 1. Item 3 . ",
     "url": "/fall2026/docs/ui-components/lists/#ordered-list",
     
     "relUrl": "/docs/ui-components/lists/#ordered-list"
-  },"221": {
+  },"223": {
     "doc": "Lists",
     "title": "Task list",
     "content": ". | hello, this is a todo item | hello, this is another todo item | goodbye, this item is done | . - [ ] hello, this is a todo item - [ ] hello, this is another todo item - [x] goodbye, this item is done . ",
     "url": "/fall2026/docs/ui-components/lists/#task-list",
     
     "relUrl": "/docs/ui-components/lists/#task-list"
-  },"222": {
+  },"224": {
     "doc": "Lists",
     "title": "Definition list",
     "content": "Definition lists require HTML syntax and aren’t supported with the GitHub Flavored Markdown compiler. Name Godzilla Born 1952 Birthplace Japan Color Green &lt;dl&gt; &lt;dt&gt;Name&lt;/dt&gt; &lt;dd&gt;Godzilla&lt;/dd&gt; &lt;dt&gt;Born&lt;/dt&gt; &lt;dd&gt;1952&lt;/dd&gt; &lt;dt&gt;Birthplace&lt;/dt&gt; &lt;dd&gt;Japan&lt;/dd&gt; &lt;dt&gt;Color&lt;/dt&gt; &lt;dd&gt;Green&lt;/dd&gt; &lt;/dl&gt; . ",
     "url": "/fall2026/docs/ui-components/lists/#definition-list",
     
     "relUrl": "/docs/ui-components/lists/#definition-list"
-  },"223": {
+  },"225": {
     "doc": "Minimal layout child page",
     "title": "Minimal layout child page",
     "content": "This is a child page that uses the same minimal layout as its parent page. ",
     "url": "/fall2026/docs/layout/minimal/minimal-child/",
     
     "relUrl": "/docs/layout/minimal/minimal-child/"
-  },"224": {
+  },"226": {
     "doc": "A minimal layout page",
     "title": "A minimal layout page",
     "content": "This page illustrates the built-in layout minimal. One of its child pages also uses the minimal layout; the other child pages uses the default layout. ",
     "url": "/fall2026/docs/layout/minimal/minimal/",
     
     "relUrl": "/docs/layout/minimal/minimal/"
-  },"225": {
+  },"227": {
     "doc": "Learning Objectives",
     "title": "Course Learning Outcomes",
     "content": "Course Learning Objectives: . By the end of the course, you should be able to apply knowledge of mathematics, science, and engineering to . | Apply knowledge of Differential Equations to solve First-Order Differential Equations. | Apply knowledge of Differential Equations to solve Second-Order and understand complexity involving Higher-Order Differential Equations. | Formulate and solve selected problems from science and engineering, represented by First-Order &amp; Second-Order Differential Equations. | Formulate and solve systems of differential equations | Understand the variety of applications of Differential equations in Engineering, science, and beyond. | . ",
     "url": "/fall2026/objectives/#course-learning-outcomes",
     
     "relUrl": "/objectives/#course-learning-outcomes"
-  },"226": {
+  },"228": {
     "doc": "Learning Objectives",
     "title": "Learning Objectives",
     "content": "Referencing the content in this webpage: . Bulusu, Kartik V. (2026, August 24). APSC 2113: Engineering Analysis I [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University. ",
     "url": "/fall2026/objectives/",
     
     "relUrl": "/objectives/"
-  },"227": {
+  },"229": {
     "doc": "Ordering Pages",
     "title": "Ordering Pages",
     "content": "To specify a page order, you can use the nav_order parameter in the front matter of the pages. ",
     "url": "/fall2026/docs/navigation/main/order/",
     
     "relUrl": "/docs/navigation/main/order/"
-  },"228": {
+  },"230": {
     "doc": "Ordering Pages",
     "title": "Example: using nav_order",
     "content": "--- title: Customization nav_order: 6 --- . The parameter values determine the order of the top-level pages, and of child pages with the same parent. You can reuse the same parameter values (e.g., integers starting from 1) for the child pages of different parents. The parameter values can be numbers (integers, floats1) and/or strings. When you omit nav_order parameters, they default to the titles of the pages, which are ordered alphabetically. Pages with numerical nav_order parameters always come before those with strings or default nav_order parameters. If you want to make the page order independent of the page titles, you can set explicit nav_order parameters on all pages. The order of pages with equal nav_order parameters is unstable: it may change with each build. By default, all Capital letters come before all lowercase letters; you can add nav_sort: case_insensitive in the configuration file to ignore the case.2 . Enclosing strings in quotation marks in front matter is optional, unless they contain “[”, “]”, “{”, “}”, “,”, “: ”, or “ #”. Boolean, integer, and float values are treated as strings when enclosed in quotation marks. | Jekyll treats each integer N as equal to the corresponding float N.0. &#8617; . | Note for users of previous versions of Just the Docs: The option nav_sort: case_insensitive previously affected the ordering of numerical nav_order parameters: e.g., 10 came before 2. Also, all pages with explicit nav_order parameters previously came before all pages with default parameters. Both were potentially confusing, and they have now been eliminated. &#8617; . | . ",
     "url": "/fall2026/docs/navigation/main/order/#example-using-nav_order",
     
     "relUrl": "/docs/navigation/main/order/#example-using-nav_order"
-  },"229": {
+  },"231": {
     "doc": "Breadcrumbs",
     "title": "Breadcrumbs",
     "content": "When using the default layout, all pages except top-level pages will automatically have a list of ‘breadcrumbs’ at the top, linking to the parent page and to any higher-level ancestors. The default layout does not provide an option to suppress the list of breadcrumbs. To do that, you would need to define a new layout, or override the file _includes/components/breadcrumbs.html (e.g., with an empty file). ",
     "url": "/fall2026/docs/navigation/parents/",
     
     "relUrl": "/docs/navigation/parents/"
-  },"230": {
+  },"232": {
     "doc": "Course Policies",
     "title": "Course Policies",
     "content": " ",
     "url": "/fall2026/policies/#course-policies",
     
     "relUrl": "/policies/#course-policies"
-  },"231": {
+  },"233": {
     "doc": "Course Policies",
     "title": "Table of contents",
     "content": ". | Grading - List of what will be counted and percentages. | Grading Scale from Fall 2026 (subject to change during Fall 2026) | Grading and late work policy | Consideration for grading | . | Late submissions | Policy on th use of Artificial Intelligence (AI) tools for the course | Instruction team’s statement on academic integrity | Classroom Policies and Student responsibilities | Communication during extenuating circumstances | Statement on the classroom activities | University Policies . | Use of Electronic Course Materials and Class Recordings | University Policy on Religious Holidays | Support for Students Outside the Classroom . | GWU Writing Center | Academic Commons | Office of Student Success | Disability Support Services (DSS) 202‐994‐8250 | Counseling and Psychological Services (CAPS) 202‐994‐5300 | Safety and Security | . | Academic Integrity Code | . | . ",
     "url": "/fall2026/policies/#table-of-contents",
     
     "relUrl": "/policies/#table-of-contents"
-  },"232": {
+  },"234": {
     "doc": "Course Policies",
     "title": "Grading - List of what will be counted and percentages.",
     "content": "The grading breakdown is subject to change during the course for the benefit of the students. | Homeworks and Assignments: 20% . Little Quizzes (LQs): 5% . Regular Quizzes (RQs): 15% . Exam-1: 30% . Exam-2: 30% . | exam by pongsakorn from Noun Project . | . Grading Scale from Fall 2026 (subject to change during Fall 2026) . Will be announced soon . Grades are “rounded up” to the nearest integer. Grading and late work policy . | Any questions or disputes about grading must be received within one week of having the graded work returned to the student. | Requests must be rational and submitted in writing (email is acceptable), and the professor may refuse the request | There may be instances in the presentations where peer evaluations may be introduced at the discretion of the instructor. | . Consideration for grading . | The grades for the course deliverables will be awared only the student demonstrates all the following: . | Attendance | Satisfactory performance and conduct during the course and | Maintains Academic Integrity Note: The instructor may at any time escalate academic integrity issues, including any potential incident of academic dishonesty, to Conflict Education &amp; Student Accountability (CESA) at The George Washington University. | . | . ",
     "url": "/fall2026/policies/#grading---list-of-what-will-be-counted-and-percentages",
     
     "relUrl": "/policies/#grading---list-of-what-will-be-counted-and-percentages"
-  },"233": {
+  },"235": {
     "doc": "Course Policies",
     "title": "Late submissions",
     "content": ". | Late submissions on the course deliverables will not be accepted, with the following exceptions: . | Extensions will be granted should there arise due to circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time. | Notify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing. | To ensure fairness toward all students, the instructor will request documentation of such circumstances. | . | . ",
     "url": "/fall2026/policies/#late-submissions",
     
     "relUrl": "/policies/#late-submissions"
-  },"234": {
+  },"236": {
     "doc": "Course Policies",
     "title": "Policy on th use of Artificial Intelligence (AI) tools for the course",
     "content": ". | The use of Google Gemini and Microsoft Copilot, GWU-apporved AI-based tools will be permitted at the direction of the instructor for specific deliverables or in-class activities for all the students registered in the course. | For the GWU’s Artificial Intelligence (AI) Evaluation &amp; Status you may refer to the link posted here: https://it.gwu.edu/ai-tools-status | . | The use of chatGPT or other non GWU-apporved AI-based tools are STRICTLY NOT PERMITTED by the instructor unless, the instructor provides prioir approvals for all the students registered in the course. | . | Any violations of the aforementioned policy will be reviewed under the Academic Integrity Code and Conflict Education &amp; Student Accountability (CESA) | . Furthermore, the ethical issues regarding the use of chatGPT or any other AI-based models will be discussed in-class and course policy will be amended according to the findings. The findings of any such discussions will be summarized and placed in-context of the Academic Integrity Code . Resources that will guide the course policy changes during the course: . | chatGPT Course policy formulation . | chatGPT chatbot . | How ChatGPT Could Transform Higher Education . | . ",
     "url": "/fall2026/policies/#policy-on-th-use-of-artificial-intelligence-ai-tools-for-the-course",
     
     "relUrl": "/policies/#policy-on-th-use-of-artificial-intelligence-ai-tools-for-the-course"
-  },"235": {
+  },"237": {
     "doc": "Course Policies",
     "title": "Instruction team’s statement on academic integrity",
     "content": "The instruction team may at any time escalate, academic intergrity issues with any potential incident of academic dishonesty, before Conflict Education &amp; Student Accountability (CESA) in The George Washington University. ",
     "url": "/fall2026/policies/#instruction-teams-statement-on-academic-integrity",
     
     "relUrl": "/policies/#instruction-teams-statement-on-academic-integrity"
-  },"236": {
+  },"238": {
     "doc": "Course Policies",
     "title": "Classroom Policies and Student responsibilities",
     "content": "| The course is designed with experiential learning modules provided in each session. This course requires a combination of individual and group work entailing hands-on activities and frequent interactions with the instructional team. The laboratory and recitation sessions and, office hours are available for interacting with your group and the instructor. We ask that all students adhere to the course policies throughout the duration of the semester. | classroom by Chattapat from Noun Project . | . | Be respectful: . | Listen to the instructor. Keep an open mind to the course material presented. | Limit the use of personal devices. | Be aware that you are working in a group. | Respect each other’s opinion during dicussions. | . | Be responsible: . | Arrive on time. | Submit the course deliverables on time. | Help your team members | . | Be a communicator: . | Observe, Ask questions and Try out the materials presented during the course. | Communicate with your team effectively and politely. | An email informing the instructor about your absence is necessary, if you are not planning to attend the lecture and lab session during the course. | The requests about making up graded-labs or any in-class activities will be considered but with prior intimation and time constraints of the course. | . | . | Be a problem solver: . | Explore options to complete hands-on tasks. | Make your own notes. | Stay positive about the course outcomes. | . | . ",
     "url": "/fall2026/policies/#classroom-policies-and-student-responsibilities",
     
     "relUrl": "/policies/#classroom-policies-and-student-responsibilities"
-  },"237": {
+  },"239": {
     "doc": "Course Policies",
     "title": "Communication during extenuating circumstances",
     "content": "When you need to communicate with us directly regarding extenuating circumstances, please use Blackboard to send email or email the instructor directly. | The instructor will check emails on Mondays and may respond at their earliest convenience. | . ",
     "url": "/fall2026/policies/#communication-during-extenuating-circumstances",
     
     "relUrl": "/policies/#communication-during-extenuating-circumstances"
-  },"238": {
+  },"240": {
     "doc": "Course Policies",
     "title": "Statement on the classroom activities",
     "content": "| The instructor intends to support the course needs of all students with diverse backgrounds and perspectives in this course. The instructor believes that the diversity that the students bring to this class is a resource, strength, and an asset. The instructor will strive to present material that is respectful of the diverse backgrounds and characteristics of the student body and the instructional team. The course materials and activities presented in this course are intended to be respectful of: age, race, ethnicity, country of origin, language, religion, spiritual practice, sexual orientation, gender identity or expression, introversion/extroversion personality dimensions, and socioeconomic and mental/physical status. Each of us, whether student or instructional team member, is expected to treat all others with respect. Disrespect in any form will not be tolerated. | employee diversity by Bold Yellow from Noun Project . | . Please let the instructor know ways to improve the effectiveness of the course. ",
     "url": "/fall2026/policies/#statement-on-the-classroom-activities",
     
     "relUrl": "/policies/#statement-on-the-classroom-activities"
-  },"239": {
+  },"241": {
     "doc": "Course Policies",
     "title": "University Policies",
     "content": " ",
     "url": "/fall2026/policies/#university-policies",
     
     "relUrl": "/policies/#university-policies"
-  },"240": {
+  },"242": {
     "doc": "Course Policies",
     "title": "Use of Electronic Course Materials and Class Recordings",
     "content": ". | Students are encouraged to use electronic course materials, including recorded class sessions (if any), for private personal use in connection with their academic program of study. Electronic course materials and recorded class sessions should not be shared or used for non-course related purposes unless express permission has been granted by the instructor. Students who impermissibly share any electronic course materials are subject to discipline under the Student Code of Conduct. | Please contact the instructor if you have questions regarding what constitutes permissible or impermissible use of electronic course materials and/or recorded class sessions. Please contact Disability Support Services if you have questions or need assistance in accessing electronic course materials. | . ",
     "url": "/fall2026/policies/#use-of-electronic-course-materials-and-class-recordings",
     
     "relUrl": "/policies/#use-of-electronic-course-materials-and-class-recordings"
-  },"241": {
+  },"243": {
     "doc": "Course Policies",
     "title": "University Policy on Religious Holidays",
     "content": ". | Students should notify faculty during the first week of the semester of their intention to be absent from class on their day(s) of religious observance. | Faculty should extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations. | Faculty who intend to observe a religious holiday should arrange at the beginning of the semester to reschedule missed classes or to make other provisions for their course‐related activities. Note: For details and policy, see “Religious Holidays” at https://provost.gwu.edu/policies-procedures-and-guidelines | . ",
     "url": "/fall2026/policies/#university-policy-on-religious-holidays",
     
     "relUrl": "/policies/#university-policy-on-religious-holidays"
-  },"242": {
+  },"244": {
     "doc": "Course Policies",
     "title": "Support for Students Outside the Classroom",
     "content": "GWU Writing Center . The center cultivates confident writers in the University community by facilitating collaborative, critical, and inclusive conversations at all stages of the writing process. Working alongside peer mentors, writers develop strategies to write independently in academic and public settings. Appointments can be booked online. Visit https://writingcenter.gwu.edu . Academic Commons . This provides tutoring and other academic support resources to students in many courses. Students can schedule virtual one-on-one appointments or attend drop-in sessions to review tutoring schedule, access other academic support resources, or obtain assistance at https://library.gwu.edu/academic-commons. Below is a short list of resources: . | Virtual learning resources: https://tinyurl.com/gw-virtual-learning | Research help: https://library.gwu.edu/get-research-help | Tutoring: https://library.gwu.edu/academic-commons/tutoring | Academic success skills: https://library.gwu.edu/academic-commons/skills-academicsuccess | . Office of Student Success . The mission of the Office of Student Success is “To support academic progress, student engagement, and well-being to ensure student satisfaction and successful student experiences, thereby improving retention and graduation outcomes.” Visit https://studentsuccess.gwu.edu. Disability Support Services (DSS) 202‐994‐8250 . Any student who may need an accommodation based on the potential impact of a disability should contact the Disability Support Services office at 202‐994‐8250 in the Rome Hall, Suite 102, to establish eligibility and to coordinate reasonable accommodations. For additional information please refer to: https://disabilitysupport.gwu.edu/ . Counseling and Psychological Services (CAPS) 202‐994‐5300 . The University’s Counseling and Psychological Services (CAPS) offers 24/7 assistance and referral to address students’ personal, social, career, and study skills problems. Services for students include: crisis and emergency mental health consultations confidential assessment, counseling services (individual and small group), and referrals. https://healthcenter.gwu.edu/counseling-and-psychological-services . Safety and Security . | In an emergency: Call GWPD 202-991-6111 or 911 | For situation-specific actions: Review the Emergency Response Handbook at https://safety.gwu.edu/emergency-response-handbook | GWU Active preparedness resource: https://safety.gwu.edu/active-threat-preparedness | GWU Rev-ready campaign: https://safety.gwu.edu/rev-ready | . ",
     "url": "/fall2026/policies/#support-for-students-outside-the-classroom",
     
     "relUrl": "/policies/#support-for-students-outside-the-classroom"
-  },"243": {
+  },"245": {
     "doc": "Course Policies",
     "title": "Academic Integrity Code",
     "content": "Academic dishonesty is defined as cheating of any kind, including misrepresenting one’s own work, taking credit for the work of others without crediting them and without appropriate authorization, and the fabrication of information. Unless otherwise specified: . | You are not allowed to collaborate on the home works and lab assignments; for programming projects and hardware lab assignments. | You can work in teams only if they are designated as team projects (labs). Unless otherwise specified, you cannot search for solutions or code on the web – but you can use any code that is included in the textbook or lecture notes (but please cite them). | I will be using a SW tool that checks for program code similarities – any pair of programs or written reports with greater than 10% similarity will be closely examined. | . Note: The Office of Academic Integrity maintains a permanent record of the violation. More information is available from the Office of Academic Integrity at https://students.gwu.edu/cesa. The University’s “Guide of Academic Integrity in Online Learning Environments” is available at https://students.gwu.edu/cesa. Contact information: rights@gwu.edu or 202-994-6757. ",
     "url": "/fall2026/policies/#academic-integrity-code",
     
     "relUrl": "/policies/#academic-integrity-code"
-  },"244": {
+  },"246": {
     "doc": "Course Policies",
     "title": "Course Policies",
     "content": "Referencing the content in this webpage: . Bulusu, Kartik V. (2026, August 24). APSC 2113: Engineering Analysis I [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University. ",
     "url": "/fall2026/policies/",
     
     "relUrl": "/policies/"
-  },"245": {
+  },"247": {
     "doc": "Responsive Modifiers",
     "title": "Responsive modifiers",
     "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
     "url": "/fall2026/docs/utilities/responsive-modifiers/#responsive-modifiers",
     
     "relUrl": "/docs/utilities/responsive-modifiers/#responsive-modifiers"
-  },"246": {
+  },"248": {
     "doc": "Responsive Modifiers",
     "title": "Responsive Modifiers",
     "content": " ",
     "url": "/fall2026/docs/utilities/responsive-modifiers/",
     
     "relUrl": "/docs/utilities/responsive-modifiers/"
-  },"247": {
+  },"249": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "/fall2026/docs/search/",
     
     "relUrl": "/docs/search/"
-  },"248": {
+  },"250": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | Focus search bar with a keyboard shortcut | . | Hiding pages from search | Generate search index when used as a gem | Custom content for search index . | Example: adding custom usage and examples fields | . | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "/fall2026/docs/search/#table-of-contents",
     
     "relUrl": "/docs/search/#table-of-contents"
-  },"249": {
+  },"251": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . Focus search bar with a keyboard shortcut . Just the Docs supports focusing the search bar input with a keyboard shortcut. After setting the search.focus_shortcut_key config item key, users who press Ctrl + search.focus_shortcut_key (or on macOS, Command + search.focus_shortcut_key) will focus the search bar. Note that this feature is disabled by default. search.focus_shortcut_key should be a valid value from KeyboardEvent.key; this involves all ASCII alphanumeric values, as well as modifier keys. For example, . search: focus_shortcut_key: 'k' . Will make Ctrl + K focus the search bar for Windows users (and Command + K on macOS). ",
     "url": "/fall2026/docs/search/#enable-search-in-configuration",
     
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"250": {
+  },"252": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g., a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "/fall2026/docs/search/#hiding-pages-from-search",
     
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"251": {
+  },"253": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "/fall2026/docs/search/#generate-search-index-when-used-as-a-gem",
     
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"252": {
+  },"254": {
     "doc": "Search",
     "title": "Custom content for search index",
     "content": "New (v0.4.0) . Advanced . By default, the search feature indexes a page’s .content, .title, and some headers within the .content. Other data (e.g. front matter, files in _data and assets) is not indexed. Users can customize what is indexed. Customizing search indices is an advanced feature that requires Javascript and Liquid knowledge. | When Just the Docs is a local or gem theme, ensure assets/js/zzzz-search-data.json is up-to-date with Generate search index when used as a gem. | Add a new file named _includes/lunr/custom-data.json. Insert custom Liquid code that reads your data (e.g. the page object at include.page) then generates custom Javascript fields that hold the custom data you want to index. Verify these fields in the generated assets/js/search-data.json. | Add a new file named _includes/lunr/custom-index.js. Insert custom Javascript code that reads your custom Javascript fields and inserts them into the search index. You may want to inspect assets/js/just-the-docs.js to better understand the code. | . Example: adding custom usage and examples fields . This example adds front matter usage and examples fields to the search index. _includes/lunr/custom-data.json custom code reads the page usage and examples fields, normalizes the text, and writes the text to custom Javascript myusage and myexamples fields. Javascript fields are similar yet not the same as JSON. jsonify will probably work for most scenarios. {%- capture newline %} {% endcapture -%} \"myusage\": {{ include.page.usage | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }}, \"myexamples\": {{ include.page.examples | markdownify | replace:newline,' ' | strip_html | normalize_whitespace | strip | jsonify }}, . _includes/lunr/custom-index.js custom code is inserted into the Javascript loop of assets/js/just-the-docs.js. All custom Javascript fields are accessed as fields of docs[i] such as docs[i].myusage. Finally, append your custom fields on to the already existing docs[i].content. const content_to_merge = [docs[i].content, docs[i].myusage, docs[i].myexamples]; docs[i].content = content_to_merge.join(' '); . ",
     "url": "/fall2026/docs/search/#custom-content-for-search-index",
     
     "relUrl": "/docs/search/#custom-content-for-search-index"
-  },"253": {
+  },"255": {
     "doc": "Tables",
     "title": "Tables",
     "content": "Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | . ",
     "url": "/fall2026/docs/Schedule/tables/",
     
     "relUrl": "/docs/Schedule/tables/"
-  },"254": {
+  },"256": {
     "doc": "Tables",
     "title": "Tables",
     "content": "Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport. | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . | head1 | head two | three |:-------------|:------------------|:------| ok | good swedish fish | nice | out of stock | good and plenty | nice | ok | good `oreos` | hmm | ok | good `zoute` drop | yumm | . ",
     "url": "/fall2026/docs/ui-components/tables/",
     
     "relUrl": "/docs/ui-components/tables/"
-  },"255": {
+  },"257": {
     "doc": "Typography",
     "title": "Typography Utilities",
     "content": " ",
     "url": "/fall2026/docs/utilities/typography/#typography-utilities",
     
     "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"256": {
+  },"258": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font size | Font weight | Line height | Text justification | . ",
     "url": "/fall2026/docs/utilities/typography/#table-of-contents",
     
     "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"257": {
+  },"259": {
     "doc": "Typography",
     "title": "Font size",
     "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
     "url": "/fall2026/docs/utilities/typography/#font-size",
     
     "relUrl": "/docs/utilities/typography/#font-size"
-  },"258": {
+  },"260": {
     "doc": "Typography",
     "title": "Font weight",
     "content": "Use the .fw-300 - .fw-700 to set an explicit font-weight. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
     "url": "/fall2026/docs/utilities/typography/#font-weight",
     
     "relUrl": "/docs/utilities/typography/#font-weight"
-  },"259": {
+  },"261": {
     "doc": "Typography",
     "title": "Line height",
     "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
     "url": "/fall2026/docs/utilities/typography/#line-height",
     
     "relUrl": "/docs/utilities/typography/#line-height"
-  },"260": {
+  },"262": {
     "doc": "Typography",
     "title": "Text justification",
     "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
     "url": "/fall2026/docs/utilities/typography/#text-justification",
     
     "relUrl": "/docs/utilities/typography/#text-justification"
-  },"261": {
+  },"263": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/fall2026/docs/utilities/typography/",
     
     "relUrl": "/docs/utilities/typography/"
-  },"262": {
+  },"264": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/fall2026/docs/Schedule/typography/",
     
     "relUrl": "/docs/Schedule/typography/"
-  },"263": {
+  },"265": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font stack | Responsive type scale | Headings | Body text | Inline elements | Typographic Utilities | . ",
     "url": "/fall2026/docs/Schedule/typography/#table-of-contents",
     
     "relUrl": "/docs/Schedule/typography/#table-of-contents"
-  },"264": {
+  },"266": {
     "doc": "Typography",
     "title": "Font stack",
     "content": "By default, Just the Docs uses a native system font stack for sans-serif fonts: . system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Segoe UI Emoji\" . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . For monospace type, like code snippets or the &lt;pre&gt; element, Just the Docs uses a native system font stack for monospace fonts: . \"SFMono-Regular\", Menlo, Consolas, Monospace . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . ",
     "url": "/fall2026/docs/Schedule/typography/#font-stack",
     
     "relUrl": "/docs/Schedule/typography/#font-stack"
-  },"265": {
+  },"267": {
     "doc": "Typography",
     "title": "Responsive type scale",
     "content": "Just the Docs uses a responsive type scale that shifts depending on the viewport size. | Selector | Small screen size font-size | Large screen size font-size | . | h1, .text-alpha | 32px | 36px | . | h2, .text-beta | 18px | 24px | . | h3, .text-gamma | 16px | 18px | . | h4, .text-delta | 14px | 16px | . | h5, .text-epsilon | 16px | 18px | . | h6, .text-zeta | 18px | 24px | . | body | 14px | 16px | . ",
     "url": "/fall2026/docs/Schedule/typography/#responsive-type-scale",
     
     "relUrl": "/docs/Schedule/typography/#responsive-type-scale"
-  },"266": {
+  },"268": {
     "doc": "Typography",
     "title": "Headings",
     "content": "Headings are rendered like this: . ",
     "url": "/fall2026/docs/Schedule/typography/#headings",
     
     "relUrl": "/docs/Schedule/typography/#headings"
-  },"267": {
+  },"269": {
     "doc": "Typography",
     "title": "Heading 1",
     "content": " ",
     "url": "/fall2026/docs/Schedule/typography/",
     
     "relUrl": "/docs/Schedule/typography/"
-  },"268": {
+  },"270": {
     "doc": "Typography",
     "title": "Heading 2",
     "content": "Heading 3 . Heading 4 . Heading 5 . Heading 6 . # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 . ",
     "url": "/fall2026/docs/Schedule/typography/",
     
     "relUrl": "/docs/Schedule/typography/"
-  },"269": {
+  },"271": {
     "doc": "Typography",
     "title": "Body text",
     "content": "Default body text is rendered like this: . Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
     "url": "/fall2026/docs/Schedule/typography/#body-text",
     
     "relUrl": "/docs/Schedule/typography/#body-text"
-  },"270": {
+  },"272": {
     "doc": "Typography",
     "title": "Inline elements",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. Text can be **bold**, _italic_, or ~~strikethrough~~. [Link to another page](/fall2026/). ",
     "url": "/fall2026/docs/Schedule/typography/#inline-elements",
     
     "relUrl": "/docs/Schedule/typography/#inline-elements"
-  },"271": {
+  },"273": {
     "doc": "Typography",
     "title": "Typographic Utilities",
     "content": "There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization. View typography utilities . ",
     "url": "/fall2026/docs/Schedule/typography/#typographic-utilities",
     
     "relUrl": "/docs/Schedule/typography/#typographic-utilities"
-  },"272": {
+  },"274": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "/fall2026/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"273": {
+  },"275": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font stack | Responsive type scale | Headings | Body text | Inline elements | Typographic Utilities | . ",
     "url": "/fall2026/docs/ui-components/typography/#table-of-contents",
     
     "relUrl": "/docs/ui-components/typography/#table-of-contents"
-  },"274": {
+  },"276": {
     "doc": "Typography",
     "title": "Font stack",
     "content": "By default, Just the Docs uses a native system font stack for sans-serif fonts: . system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Segoe UI Emoji\" . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . For monospace type, like code snippets or the &lt;pre&gt; element, Just the Docs uses a native system font stack for monospace fonts: . \"SFMono-Regular\", Menlo, Consolas, Monospace . ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz . ",
     "url": "/fall2026/docs/ui-components/typography/#font-stack",
     
     "relUrl": "/docs/ui-components/typography/#font-stack"
-  },"275": {
+  },"277": {
     "doc": "Typography",
     "title": "Responsive type scale",
     "content": "Just the Docs uses a responsive type scale that shifts depending on the viewport size. | Selector | Small screen size font-size | Large screen size font-size | . | h1, .text-alpha | 32px | 36px | . | h2, .text-beta | 18px | 24px | . | h3, .text-gamma | 16px | 18px | . | h4, .text-delta | 14px | 16px | . | h5, .text-epsilon | 16px | 18px | . | h6, .text-zeta | 18px | 24px | . | body | 14px | 16px | . ",
     "url": "/fall2026/docs/ui-components/typography/#responsive-type-scale",
     
     "relUrl": "/docs/ui-components/typography/#responsive-type-scale"
-  },"276": {
+  },"278": {
     "doc": "Typography",
     "title": "Headings",
     "content": "Headings are rendered like this: . ",
     "url": "/fall2026/docs/ui-components/typography/#headings",
     
     "relUrl": "/docs/ui-components/typography/#headings"
-  },"277": {
+  },"279": {
     "doc": "Typography",
     "title": "Heading 1",
     "content": " ",
     "url": "/fall2026/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"278": {
+  },"280": {
     "doc": "Typography",
     "title": "Heading 2",
     "content": "Heading 3 . Heading 4 . Heading 5 . Heading 6 . # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 . ",
     "url": "/fall2026/docs/ui-components/typography/",
     
     "relUrl": "/docs/ui-components/typography/"
-  },"279": {
+  },"281": {
     "doc": "Typography",
     "title": "Body text",
     "content": "Default body text is rendered like this: . Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
     "url": "/fall2026/docs/ui-components/typography/#body-text",
     
     "relUrl": "/docs/ui-components/typography/#body-text"
-  },"280": {
+  },"282": {
     "doc": "Typography",
     "title": "Inline elements",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. Text can be **bold**, _italic_, or ~~strikethrough~~. [Link to another page](/fall2026/). ",
     "url": "/fall2026/docs/ui-components/typography/#inline-elements",
     
     "relUrl": "/docs/ui-components/typography/#inline-elements"
-  },"281": {
+  },"283": {
     "doc": "Typography",
     "title": "Typographic Utilities",
     "content": "There are a number of specific typographic CSS classes that allow you to override default styling for font size, font weight, line height, and capitalization. View typography utilities . ",
     "url": "/fall2026/docs/ui-components/typography/#typographic-utilities",
     
     "relUrl": "/docs/ui-components/typography/#typographic-utilities"
-  },"282": {
+  },"284": {
     "doc": "X",
     "title": "X",
     "content": "title: X parent: Ancestry . ",
     "url": "/fall2026/docs/navigation/main/x/",
     
     "relUrl": "/docs/navigation/main/x/"
-  },"283": {
+  },"285": {
     "doc": "S",
     "title": "S",
     "content": "title: S parent: X . ",
     "url": "/fall2026/docs/navigation/main/xs/",
     
     "relUrl": "/docs/navigation/main/xs/"
-  },"284": {
+  },"286": {
     "doc": "T",
     "title": "T",
     "content": "title: T parent: S grand_parent: X . ",
     "url": "/fall2026/docs/navigation/main/xt/",
     
     "relUrl": "/docs/navigation/main/xt/"
-  },"285": {
+  },"287": {
     "doc": "U",
     "title": "U",
     "content": "title: U parent: T ancestor: X . ",
     "url": "/fall2026/docs/navigation/main/xu/",
     
     "relUrl": "/docs/navigation/main/xu/"
-  },"286": {
+  },"288": {
     "doc": "Y",
     "title": "Y",
     "content": "title: Y parent: Ancestry . ",
     "url": "/fall2026/docs/navigation/main/y/",
     
     "relUrl": "/docs/navigation/main/y/"
-  },"287": {
+  },"289": {
     "doc": "S",
     "title": "S",
     "content": "title: S parent: Y . ",
     "url": "/fall2026/docs/navigation/main/ys/",
     
     "relUrl": "/docs/navigation/main/ys/"
-  },"288": {
+  },"290": {
     "doc": "T",
     "title": "T",
     "content": "title: T parent: S ancestor: Y . ",
     "url": "/fall2026/docs/navigation/main/yt/",
     
     "relUrl": "/docs/navigation/main/yt/"
-  },"289": {
+  },"291": {
     "doc": "U",
     "title": "U",
     "content": "title: U parent: T ancestor: Y . ",
