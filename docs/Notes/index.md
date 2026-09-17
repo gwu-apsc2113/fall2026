@@ -19,13 +19,24 @@ nav_order: 4
 {:toc}
 
 # First-Order ODEs Notes-set1
+## Intro to APSC 2113; Differential Equations and Mathematical Models
+## Integrals as General and Particular Solutions; Slope Fields and Solution Curves
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set1.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
 
+## Cheat sheet for the Classification of Ordinary Differential Equations
+<div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
+  <img src="{{ '/docs/Notes/ode_classification_editable.png' | relative_url }}"
+       alt="Cheat sheet for the classification of ordinary differential equations"
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 # First-Order ODEs Notes-set2
+##  (Continued) Integrals as General and Particular Solutions; Slope Fields and Solution Curves
+## Response to Exponential functions: Particular and homogenous solutions
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set2.pdf' | relative_url }}">Download PDF</a>
@@ -33,6 +44,7 @@ nav_order: 4
 </div>
 
 # First-Order ODEs Notes-set3
+## Response to Oscillating functions (cos $\omegat$): Particular and homogenous solutions
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set3.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set3.pdf' | relative_url }}">Download PDF</a>
@@ -40,6 +52,8 @@ nav_order: 4
 </div>
 
 # First-Order ODEs Notes-set4
+## Population and Logistic problem
+## Steady States and Stability of First Order ODEs
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set4.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set4.pdf' | relative_url }}">Download PDF</a>
@@ -47,6 +61,7 @@ nav_order: 4
 </div>
 
 # First-Order ODEs Notes-set5
+## Separable Equations and Applications
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set5.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Notes-set5.pdf' | relative_url }}">Download PDF</a>
@@ -54,15 +69,10 @@ nav_order: 4
 </div>
 
 # First-Order ODEs Example-Pset1
+## Solved Examples and Discussions
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Example_PSet1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Example_PSet1.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
 
-# Cheat sheet for the Classification of Ordinary Differential Equations
-<div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
-  <img src="{{ '/docs/Notes/ode_classification_editable.png' | relative_url }}"
-       alt="Cheat sheet for the classification of ordinary differential equations"
-       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-</div>
