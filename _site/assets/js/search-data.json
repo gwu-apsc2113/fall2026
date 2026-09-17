@@ -1170,7 +1170,7 @@
   },"167": {
     "doc": "Notes",
     "title": "Table of contents",
-    "content": ". | First-Order ODEs Notes-set1 . | Intro to APSC 2113; Differential Equations and Mathematical Models | Integrals as General and Particular Solutions; Slope Fields and Solution Curves | Cheat sheet for the Classification of Ordinary Differential Equations | . | First-Order ODEs Notes-set2 . | (Continued) Integrals as General and Particular Solutions; Slope Fields and Solution Curves | Response to Exponential functions: Particular and homogenous solutions | . | First-Order ODEs Notes-set3 . | Response to Oscillating functions (cos $\\omegat$): Particular and homogenous solutions | . | First-Order ODEs Notes-set4 . | Population and Logistic problem | Steady States and Stability of First Order ODEs | . | First-Order ODEs Notes-set5 . | Separable Equations and Applications | . | First-Order ODEs Example-Pset1 . | Solved Examples and Discussions | . | . ",
+    "content": ". | First-Order ODEs Notes-set1 . | Intro to APSC 2113; Differential Equations and Mathematical Models | Integrals as General and Particular Solutions; Slope Fields and Solution Curves | Cheat sheet for the Classification of Ordinary Differential Equations | . | First-Order ODEs Notes-set2 . | (Continued) Integrals as General and Particular Solutions; Slope Fields and Solution Curves | Response to Exponential functions: Particular and homogenous solutions | . | First-Order ODEs Notes-set3 . | Response to Oscillating functions (cos $\\omegat$): Particular and homogenous solutions | . | First-Order ODEs Notes-set4 . | Population and Logistic problem | Steady States and Stability of First Order ODEs | . | First-Order ODEs Notes-set5 . | Separable Equations and Applications | . | Solved Examples and Discussions . | First-Order ODEs Example-Pset1 | . | . ",
     "url": "/fall2026/docs/Notes/#table-of-contents",
     
     "relUrl": "/docs/Notes/#table-of-contents"
@@ -1274,18 +1274,18 @@
     "relUrl": "/docs/Notes/#separable-equations-and-applications"
   },"182": {
     "doc": "Notes",
-    "title": "First-Order ODEs Example-Pset1",
-    "content": " ",
-    "url": "/fall2026/docs/Notes/#first-order-odes-example-pset1",
-    
-    "relUrl": "/docs/Notes/#first-order-odes-example-pset1"
-  },"183": {
-    "doc": "Notes",
     "title": "Solved Examples and Discussions",
-    "content": "This browser does not support PDFs. Please download the PDF to view it: Download PDF ",
+    "content": " ",
     "url": "/fall2026/docs/Notes/#solved-examples-and-discussions",
     
     "relUrl": "/docs/Notes/#solved-examples-and-discussions"
+  },"183": {
+    "doc": "Notes",
+    "title": "First-Order ODEs Example-Pset1",
+    "content": "This browser does not support PDFs. Please download the PDF to view it: Download PDF ",
+    "url": "/fall2026/docs/Notes/#first-order-odes-example-pset1",
+    
+    "relUrl": "/docs/Notes/#first-order-odes-example-pset1"
   },"184": {
     "doc": "Notes",
     "title": "Notes",
