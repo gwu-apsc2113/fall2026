@@ -78,7 +78,7 @@ nav_order: 4
 
 ## First-Order, ODEs Example-Pset2 (Non-linear ODEs, Steady states and Stability)
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
-  <iframe src="{{ '/docs/Notes/FirstOrderODEs_Example_PSet21.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+  <iframe src="{{ '/docs/Notes/FirstOrderODEs_Example_PSet2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/FirstOrderODEs_Example_PSet2.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
