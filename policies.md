@@ -71,9 +71,9 @@ at the discretion of the instructor.
 3. Maintains Academic Integrity
 Note: The instructor may at any time escalate academic integrity issues, including any potential incident of academic dishonesty, to [Conflict Education & Student Accountability (CESA)](https://students.gwu.edu/cesa) at The George Washington University.
 
-## Late submissions 
-- Late submissions on the course deliverables will not be accepted, with the following exceptions:
-  - Extensions will be granted should there arise due to circumstances beyond your control that impede your ability to complete coursework and turn in a deliverable on time. 
+## Late submissions, missed exams, classes and deadlines
+- Late submissions due to missed classes and deadlines on the course deliverables, and quizzes will not be accepted, and exams that are missed will not administered at a new date. The following exceptions may be considered at the discretion of the instructor who holds the right to refuse the request:
+  - Exceptions will be granted when there are circumstances beyond your control that impede your ability to complete coursework, turn in a deliverable on time or a missed exam. 
   - Notify your professor as soon as feasible in these cases. Examples of such circumstances include (but are not limited to) illness, death in the family, and loss of housing. 
   - To ensure fairness toward all students, the instructor will request documentation of such circumstances.
 
