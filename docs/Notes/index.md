@@ -52,7 +52,7 @@ nav_order: 4
 </div>
 
 # First-Order ODEs Notes-set4
-## Population and Logistic problem
+## Population and Logistics problem
 ## Steady States and Stability of First Order ODEs
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/FirstOrderODEs_Notes-set4.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
