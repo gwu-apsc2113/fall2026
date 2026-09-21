@@ -76,12 +76,12 @@ nav_order: 4
   </iframe>
 </div>
 
-## Additional Example-Pset1 (Linear ODEs)
+<!-- ## Additional Example-Pset1 (Linear ODEs)
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/AdditionalProblem_PSet1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/AdditionalProblem_PSet1.pdf' | relative_url }}">Download PDF</a>
   </iframe>
-</div>
+</div> -->
 
 ## First-Order, ODEs Example-Pset2 (Non-linear ODEs, Steady states and Stability)
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
