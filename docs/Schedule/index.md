@@ -16,17 +16,17 @@ The course schedule posted below is subject to change during the semester.
 
 | Week | Date | Quizzes (LQs and RQs) | Topic | HW | Unit |
 |------|------|-----------------------|-------|----|------|
-| Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 | Intro to APSC 2113; Differential Equations and Mathematical Models | | First-order differential equations <br><br> [ODE classification (Cheat Sheet)](/fall2026/docs/Notes/) <br> |
+| Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 [Solutions](/fall2026/docs/Notes/) | Intro to APSC 2113; Differential Equations and Mathematical Models | | First-order differential equations <br><br> [ODE classification (Cheat Sheet)](/fall2026/docs/Notes/) <br> |
 |  | Aug 27, 2026 |  | Integrals as General and Particular Solutions; Slope Fields and Solution Curves |  | [First Order ODEs: Notes-set1](/fall2026/docs/Notes/) |
-| Aug 31st - Sep 6th | Sep 1, 2026 | LQ1 | Separable Equations and Applications |  | [First Order ODEs: Notes-set4](/fall2026/docs/Notes/) |
+| Aug 31st - Sep 6th | Sep 1, 2026 | LQ1 [Solutions](/fall2026/docs/Notes/) | Separable Equations and Applications |  | [First Order ODEs: Notes-set4](/fall2026/docs/Notes/) |
 |  | Sep 3, 2026 |  | Response to Exponential functions: Particular and homogenous solutions |  | [First Order ODEs: Notes-set2](/fall2026/docs/Notes/) |
-| Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 | Response to Oscillating functions (cos $\omegat$): Particular and homogenous solutions |  | [First Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
-|  | Sep 10, 2026 |  | Solved Examples and Discussions |  | [First Order ODEs: Example-Pset1](/fall2026/docs/Notes/) |
-| Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 | Population and Logistic problem; Steady States and Stability of ODEs; Introduction: Second-Order Linear Equations | | [First Order ODEs: Notes-set5](/fall2026/docs/Notes/) <br><br> Second-order differential equations |
+| Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 [Solutions](/fall2026/docs/Notes/) | Response to Oscillating functions (cos $\omegat$): Particular and homogenous solutions |  | [First Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
+|  | Sep 10, 2026 |  | Solved Examples and Discussions; Population and Logistic problem; Steady States and Stability of ODEs |  | [First Order ODEs: Example-Pset1](/fall2026/docs/Notes/) <br> [First Order ODEs: Notes-set5](/fall2026/docs/Notes/) |
+| Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 [Solutions](/fall2026/docs/Notes/) | Introduction: Second-Order Linear Equations | | [Second Order ODEs: Notes-set1](/fall2026/docs/Notes/) <br><br> Second-order differential equations |
 |  | Sep 17, 2026 |  | General Solutions of Linear Equations | HW1 due |  |
-| Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Mechanical Vibrations |  |  |
-|  | Sep 24, 2026 |  | Homogeneous Equations with Constant Coefficients; Nonhomogeneous Equations and Undetermined Coefficients |  |  |
-| Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Forced Oscillations and Resonance |  |  |
+| Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Oscillations; Homogeneous Equations with Constant Coefficients |  |  |
+|  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order ODEs |  |  |
+| Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Critically damped ODEs; Nonhomogeneous Equations and Undetermined Coefficients; Forced Oscillations and Resonance |  |  |
 |  | Oct 1, 2026 |  | Electrical Circuits; Endpoint Problems and Eigenvalues | HW2 due |  |
 | Oct 5th - Oct 11th | Oct 6, 2026 | LQ4 | Introduction and Review of Power Series |  | Power Series Methods |
 |  | Oct 8, 2026 |  | Series Solutions Near Ordinary Points |  |  |

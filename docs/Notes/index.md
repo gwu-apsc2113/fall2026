@@ -90,3 +90,43 @@ nav_order: 4
   </iframe>
 </div>
 
+# Second-Order ODEs Notes-set1
+## Introduction: Second-Order Linear Equations
+## General Solutions of Linear Equations
+## Oscillations; Homogeneous Equations with Constant Coefficients
+## Overdamped, Underdamped ODEs, and Undamped-type of Second Order ODEs
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/SecondOrderODEs_Notes-set1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/SecondOrderODEs_Notes-set1.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Solutions: Little Quizzes [LQs]
+## LQ0
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ0___Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ0___Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## LQ1
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ1___Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ1___Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## LQ2
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ2___Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ2___Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Solutions: Regular Quizzes [RQs]
+## RQ1
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___RQ1___Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___RQ1___Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
