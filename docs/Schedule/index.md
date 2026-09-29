@@ -34,17 +34,17 @@ The course schedule posted below is subject to change during the semester.
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
 | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |  | Power Series Methods (continued) |
 |  | Oct 22, 2026 |  | Method of Frobenius: The Exceptional Cases; Bessel's Equation | HW3 due |  |
-| Oct 26th - Nov 1st | Oct 27, 2026 | LQ5 | Laplace transform and inverse transform |  | Laplace Transform Methods |
+| Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Laplace transform and inverse transform |  | Laplace Transform Methods |
 |  | Oct 29, 2026 |  | Transformation of Initial value problems; Translation and Partial Fractions |  |  |
-| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ6 | Derivatives, integrals and products of transforms |  |  |
+| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Derivatives, integrals and products of transforms |  |  |
 |  | Nov 5, 2026 |  | Periodic and Piecewise continuous input functions |  |  |
 | Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | Impulses and Delta Functions |  |  |
 |  | Nov 12, 2026 |  | First-order Systems and Applications | HW4 due | Linear systems of Differential Equations |
-| Nov 16th - Nov 22nd | Nov 17, 2026 | LQ7 | The method of elimination |  |  |
+| Nov 16th - Nov 22nd | Nov 17, 2026 | LQ8 | The method of elimination |  |  |
 |  | Nov 19, 2026 |  | Martices and linear systems; The Eigenvalue method for homogenous systems |  |  |
 | Nov 23rd - Nov 29th | Nov 24, 2026 | Thanksgiving Break |  |  |  |
 |  | Nov 26, 2026 |  |  |  |  |
-| Nov 30th - Dec 6th | Dec 1, 2026 | LQ8 | Second order systems and mechanical applications |  | Linear systems of Differential Equations (continued) |
+| Nov 30th - Dec 6th | Dec 1, 2026 | LQ9 | Second order systems and mechanical applications |  | Linear systems of Differential Equations (continued) |
 |  | Dec 3, 2026 |  | Multiple Eigenvalues solutions; Martrix exponentials and linear systems |  |  |
 | Dec 7th - Dec 13th | Dec 8, 2026 | RQ5 | Nonhomogeneoous linear systems | HW5 due |  |
 |  |  |  |  |  |  |
