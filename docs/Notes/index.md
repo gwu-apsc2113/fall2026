@@ -101,6 +101,13 @@ nav_order: 4
   </iframe>
 </div>
 
+## Cheat sheet for Second-Order Linear ODEs: Roots and Damping
+<div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
+  <img src="{{ '/docs/Notes/damping_roots_table.png' | relative_url }}"
+       alt="Cheat sheet for Second-Order Linear ODEs: Roots and Damping"
+       style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</div>
+
 # Solutions: Little Quizzes [LQs]
 ## LQ0
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">

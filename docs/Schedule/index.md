@@ -25,7 +25,7 @@ The course schedule posted below is subject to change during the semester.
 | Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 [Solutions](/fall2026/docs/Notes/) | Introduction: Second-Order Linear Equations | | [Second Order ODEs: Notes-set1](/fall2026/docs/Notes/) <br><br> Second-order differential equations |
 |  | Sep 17, 2026 |  | General Solutions of Linear Equations | HW1 due |  |
 | Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Oscillations; Homogeneous Equations with Constant Coefficients |  |  |
-|  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order ODEs |  |  |
+|  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order ODEs |  | [Second-Order Linear ODEs: Roots and Damping (Cheat Sheet)](/fall2026/docs/Notes/) |
 | Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Critically damped ODEs; Nonhomogeneous Equations and Undetermined Coefficients; Forced Oscillations and Resonance |  |  |
 |  | Oct 1, 2026 | LQ4 | Electrical Circuits; Endpoint Problems and Eigenvalues |  |  |
 | Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 | Introduction and Review of Power Series |  | Power Series Methods |
