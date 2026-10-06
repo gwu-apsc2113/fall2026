@@ -14,7 +14,7 @@ The course schedule posted below is subject to change during the semester.
 <!-- To make it as easy as possible to "hit the ground running" it is strongly recommended the you review the content in this "Getting Started" page. -->
 {: .fs-6 .fw-300 }
 
-| Week | Date | Quizzes (LQs and RQs) | Topic | HW | Unit |
+| Week | Date | Quizzes (LQs and RQs) | Topic(s) | HW | Unit |
 |------|------|-----------------------|-------|----|------|
 | Aug 24th - Aug 30th | Aug 25, 2026 | LQ0 [Solutions](/fall2026/docs/Notes/) | Intro to APSC 2113; Differential Equations and Mathematical Models | | First-order differential equations <br><br> [ODE classification (Cheat Sheet)](/fall2026/docs/Notes/) <br> |
 |  | Aug 27, 2026 |  | Integrals as General and Particular Solutions; Slope Fields and Solution Curves |  | [First Order ODEs: Notes-set1](/fall2026/docs/Notes/) |
