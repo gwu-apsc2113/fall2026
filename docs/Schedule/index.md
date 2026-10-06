@@ -22,14 +22,14 @@ The course schedule posted below is subject to change during the semester.
 |  | Sep 3, 2026 |  | Response to Exponential functions: Particular and homogenous solutions |  | [First Order ODEs: Notes-set2](/fall2026/docs/Notes/) |
 | Sep 7th - Sep 13th | Sep 8, 2026 | RQ1 [Solutions](/fall2026/docs/Notes/) | Response to Oscillating functions (cos $\omegat$): Particular and homogenous solutions |  | [First Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
 |  | Sep 10, 2026 |  | Solved Examples and Discussions; Population and Logistic problem; Steady States and Stability of ODEs |  | [First Order ODEs: Example-Pset1](/fall2026/docs/Notes/) <br> [First Order ODEs: Notes-set5](/fall2026/docs/Notes/) |
-| Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 [Solutions](/fall2026/docs/Notes/) | Introduction: Second-Order Linear Equations | | [Second Order ODEs: Notes-set1](/fall2026/docs/Notes/) <br><br> Second-order differential equations |
+| Sep 14th - Sep 20th | Sep 15, 2026 | LQ2 [Solutions](/fall2026/docs/Notes/) | Introduction: Second-Order Linear Equations | | Second-order differential equations <br><br> [Second Order ODEs: Notes-set1](/fall2026/docs/Notes/) |
 |  | Sep 17, 2026 |  | General Solutions of Linear Equations | HW1 due |  |
 | Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 | Oscillations; Homogeneous Equations with Constant Coefficients |  |  |
-|  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order ODEs |  | [Second-Order Linear ODEs: Roots and Damping (Cheat Sheet)](/fall2026/docs/Notes/) |
-| Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Critically damped ODEs; Nonhomogeneous Equations and Undetermined Coefficients; Forced Oscillations and Resonance |  |  |
-|  | Oct 1, 2026 | LQ4 | Electrical Circuits; Endpoint Problems and Eigenvalues |  |  |
-| Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 | Introduction and Review of Power Series |  | Power Series Methods |
-|  | Oct 8, 2026 |  | Series Solutions Near Ordinary Points | HW2 due |  |
+|  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order, Linear, homogeneous ODEs |  | [Second Order ODEs: Notes-set2](/fall2026/docs/Notes/) <br><br> [Second-Order Linear ODEs: Roots and Damping (Cheat Sheet)](/fall2026/docs/Notes/) |
+| Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Critically damped ODEs; Nonhomogeneous Equations; Impulse and Step functions; Shifted impulse response in first-order linear ODEs; Forced Oscillations and Resonance |  | [Second Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
+|  | Oct 1, 2026 | LQ4 |  |  |
+| Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 | Impulse and Step Response in Second-order, linear ODEs with constant coeffiencents; Exponential Response Function (ERF) approach to solve Second Order, Linear, non-homogeneous ODEs |  | [Second Order ODEs: Notes-set4](/fall2026/docs/Notes/)  |  |
+|  | Oct 8, 2026 |  | Introduction and Review of Power Series, Series Solutions Near Ordinary Points | HW2 due | Power Series Methods  |
 | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |  |  |  |
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
 | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |  | Power Series Methods (continued) |

@@ -27,7 +27,7 @@ nav_order: 4
   </iframe>
 </div>
 
-## Cheat sheet for the Classification of Ordinary Differential Equations
+# Cheat sheet for the Classification of Ordinary Differential Equations
 <div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
   <img src="{{ '/docs/Notes/ode_classification_editable.png' | relative_url }}"
        alt="Cheat sheet for the classification of ordinary differential equations"
@@ -101,7 +101,32 @@ nav_order: 4
   </iframe>
 </div>
 
-## Cheat sheet for Second-Order Linear ODEs: Roots and Damping
+# Second-Order ODEs Notes-set2
+## Undamped forced harmonic oscillator
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/SecondOrderODEs_Notes-set2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/SecondOrderODEs_Notes-set2.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Second-Order ODEs Notes-set3
+## Impulse and Step function
+## Response of shifted impulse input in first-order, linear ODEs
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/SecondOrderODEs_Notes-set3.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/SecondOrderODEs_Notes-set3.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Second-Order ODEs Notes-set4
+## Impulse and Step response in second order, linear ODE with constant coefficients
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/SecondOrderODEs_Notes-set4.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/SecondOrderODEs_Notes-set4.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Cheat sheet for Second-Order Linear ODEs: Roots and Damping
 <div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
   <img src="{{ '/docs/Notes/damping_roots_table.png' | relative_url }}"
        alt="Cheat sheet for Second-Order Linear ODEs: Roots and Damping"
