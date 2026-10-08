@@ -29,10 +29,10 @@ The course schedule posted below is subject to change during the semester.
 | Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 | Critically damped ODEs; Nonhomogeneous Equations; Impulse and Step functions; Shifted impulse response in first-order linear ODEs; Forced Oscillations and Resonance |  | [Second Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
 |  | Oct 1, 2026 | LQ4 |  |  |
 | Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 | Impulse and Step Response in Second-order, linear ODEs with constant coeffiencents; Exponential Response Function (ERF) approach to solve Second Order, Linear, non-homogeneous ODEs |  | [Second Order ODEs: Notes-set4](/fall2026/docs/Notes/)  |  |
-|  | Oct 8, 2026 |  | Introduction and Review of Power Series, Series Solutions Near Ordinary Points | HW2 due | Power Series Methods  |
+|  | Oct 8, 2026 |  | Examples of Exponential Response Function (ERF) approach;  Discussion about Power Series; Discussion about the midterm exam | HW2 due | [Second Order ODEs: Notes-set5](/fall2026/docs/Notes/)  |
 | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |  |  |  |
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
-| Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |  | Power Series Methods (continued) |
+| Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |  | Power Series Methods  |
 |  | Oct 22, 2026 |  | Method of Frobenius: The Exceptional Cases; Bessel's Equation | HW3 due |  |
 | Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Laplace transform and inverse transform |  | Laplace Transform Methods |
 |  | Oct 29, 2026 |  | Transformation of Initial value problems; Translation and Partial Fractions |  |  |

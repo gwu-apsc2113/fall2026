@@ -126,6 +126,14 @@ nav_order: 4
   </iframe>
 </div>
 
+# Second-Order ODEs Notes-set5
+## Exponential Response Function approach to solve second order, linear, non-homogeneous ODE with constant coefficients
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/SecondOrderODEs_Notes-set5.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/SecondOrderODEs_Notes-set5.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
 # Cheat sheet for Second-Order Linear ODEs: Roots and Damping
 <div class="pdf-container" style="position: relative; width: 100%; text-align: center;">
   <img src="{{ '/docs/Notes/damping_roots_table.png' | relative_url }}"
