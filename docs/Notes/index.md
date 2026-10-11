@@ -163,10 +163,38 @@ nav_order: 4
   </iframe>
 </div>
 
+## LQ3
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ3_Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ3_Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## LQ4
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ4_Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ4_Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## LQ5
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___LQ5_Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___LQ5_Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
 # Solutions: Regular Quizzes [RQs]
 ## RQ1
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/APSC_2113___RQ1___Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___RQ1___Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## RQ2
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___RQ2_Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___RQ2_Solutions' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
