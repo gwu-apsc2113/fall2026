@@ -181,6 +181,10 @@
 <loc>http://localhost:4000/fall2026/docs/navigation/main/yu/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fall2026/docs/Notes/APSC_2113___HW1_Solutions.pdf</loc>
+<lastmod>2026-10-12T18:39:46-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/fall2026/docs/Notes/APSC_2113___LQ0___Solutions.pdf</loc>
 <lastmod>2026-09-24T16:03:24-04:00</lastmod>
 </url>
@@ -263,5 +267,9 @@
 <url>
 <loc>http://localhost:4000/fall2026/docs/Notes/SecondOrderODEs_Notes-set5.pdf</loc>
 <lastmod>2026-10-08T11:48:39-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/fall2026/docs/Notes/SecondOrderODEs_Notes-set6.pdf</loc>
+<lastmod>2026-10-12T18:34:57-04:00</lastmod>
 </url>
 </urlset>
