@@ -206,3 +206,11 @@ nav_order: 4
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___RQ2_Solutions' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
+
+# Solutions: Homework [HWs]
+## HW1
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC_2113___HW1_Solutions.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/APSC_2113___HW1_Solutions' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
