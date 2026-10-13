@@ -32,9 +32,9 @@ nav_order: 4
 >
 > I was not a great programmer, and I am not a great cartoonist. You made it look like neither one was required to teach something well. You only had to care enough to draw it, and be willing to look a little silly doing it.
 >
-> So here are my differential equations, that has some cartoons occasional, drawn crookedly, and ready to be colored outside the lines. 
+> So here are my notes on ordinary differential equations, that has some cartoons occasionally, drawn crookedly, and ready to be colored outside the lines. 
 >
-> If I get to teach this course again, I will ask students to bring crayons instead of computers to the classroom. 
+> If I get to teach this course again, I will ask my students to bring crayons instead of computers to the classroom. 
 >
 > With love, and with apologies to everyone's eyes.
 >
