@@ -18,6 +18,33 @@ nav_order: 4
 1. TOC
 {:toc}
 
+# Dedication
+
+{: .important-title }
+> To Prof. Roger Kaufman
+>
+> Dear <a href="https://www2.seas.gwu.edu/~kaufman1/" target="_blank" rel="noopener">Prof. Kaufman:</a>
+>
+>
+> <a href="https://www2.seas.gwu.edu/~kaufman1/FortranColoringBook/ColoringBkCover.html" target="_blank" rel="noopener">You talked the MIT Press into publishing 285 pages of FORTRAN, hand-lettered, full of smiling computers and puns in 1978.</a> It ended up on the shelves of the Smithsonian's Air and Space Museum shop. Somebody pirated it into German and, for good measure, from FORTRAN into Pascal. Dr. Seuss himself traded autographed books with you.
+>
+> When Larry Gonick called your book "witty, bordering on corny," you set the record straight: it was not bordering on anything. It was corny, all the way, and proud of it.
+>
+> I was not a great programmer, and I am not a great cartoonist. You made it look like neither one was required to teach something well. You only had to care enough to draw it, and be willing to look a little silly doing it.
+>
+> So here are my differential equations, that has some cartoons occasional, drawn crookedly, and ready to be colored outside the lines. 
+>
+> If I get to teach this course again, I will ask students to bring crayons instead of computers to the classroom. 
+>
+> With love, and with apologies to everyone's eyes.
+>
+> — <a href="https://bulusuk.github.io" target="_blank" rel="noopener">Kartik</a> <a href="https://www.linkedin.com/in/kartik-bulusu-1295261/" target="_blank" rel="noopener">Bulusu</a>
+>
+>
+> Footnote for my students: 
+>
+> <a href="https://www2.seas.gwu.edu/~kaufman1/Aeron%20Embody.html" target="_blank" rel="noopener">Prof. Kaufman also worked out the kinematics behind the tilt of the Aeron chair</a>. If you are reading this in one, a mechanism he synthesized is currently holding you up. Sit respectfully.
+
 # First-Order ODEs Notes-set1
 ## Intro to APSC 2113; Differential Equations and Mathematical Models
 ## Integrals as General and Particular Solutions; Slope Fields and Solution Curves
