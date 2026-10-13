@@ -30,7 +30,7 @@ nav_order: 4
 >
 > When Larry Gonick called your book "witty, bordering on corny," you set the record straight: it was not bordering on anything. It was corny, all the way, and proud of it.
 >
-> I was not a great programmer, and I am not a great cartoonist. You made it look like neither one was required to teach something well. You only had to care enough to draw it, and be willing to look a little silly doing it.
+> I am not a great programmer, and neither I am a cartoonist. You made it look like neither one was required to teach something well. You only had to care enough to draw it, and be willing to look a little silly doing it.
 >
 > So here are my notes on ordinary differential equations, that has some cartoons occasionally, drawn crookedly, and ready to be colored outside the lines. 
 >
