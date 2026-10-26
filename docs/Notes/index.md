@@ -176,6 +176,14 @@ nav_order: 4
        style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
+# Power Series Notes-set1
+## Introduction to Power Series; Analytic Functions; Taylor and Maclaurin Series and Examples
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/PowerSeries_Notes-set1.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set1.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
 # Solutions: Little Quizzes [LQs]
 ## LQ0
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">

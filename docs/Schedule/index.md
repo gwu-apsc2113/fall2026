@@ -32,11 +32,11 @@ The course schedule posted below is subject to change during the semester.
 |  | Oct 8, 2026 |  | Examples of Exponential Response Function (ERF) approach;  Discussion about Power Series; Discussion about the midterm exam | HW2 due <br><br> [Solutions](/fall2026/docs/Notes/) | [Second Order ODEs: Notes-set5](/fall2026/docs/Notes/) <br><br> [Second Order ODEs: Notes-set6](/fall2026/docs/Notes/) |
 | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |  |  |  |
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
-| Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Regular Singular Points |  | Power Series Methods  |
-|  | Oct 22, 2026 |  | Method of Frobenius: The Exceptional Cases; Bessel's Equation | TBA: HW3 and it's new due date |  |
-| Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Laplace transform and inverse transform |  | Laplace Transform Methods |
-|  | Oct 29, 2026 |  | Transformation of Initial value problems; Translation and Partial Fractions |  |  |
-| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Derivatives, integrals and products of transforms |  |  |
+| Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Introduction to the Power Series Method; Legendre's equation; Regular Singular Points |  | Power Series Methods <br><br> [Power Series: Notes-set1](/fall2026/docs/Notes/)|
+|  | Oct 22, 2026 |  |  |  |  |
+| Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Method of Frobenius: The Exceptional Cases; Bessel's Equation; Introduction to Laplace transform and inverse transform |  |  |
+|  | Oct 29, 2026 |  | Transformation of Initial value problems; Translation and Partial Fractions |  | Laplace Transform Methods |
+| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Derivatives, integrals and products of transforms | HW3 due |  |
 |  | Nov 5, 2026 |  | Periodic and Piecewise continuous input functions |  |  |
 | Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | Impulses and Delta Functions |  |  |
 |  | Nov 12, 2026 |  | First-order Systems and Applications | HW4 due | Linear systems of Differential Equations |
