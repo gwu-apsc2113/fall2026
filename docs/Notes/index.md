@@ -184,6 +184,14 @@ nav_order: 4
   </iframe>
 </div>
 
+# Power Series Notes-set2
+## The Legendre Equation
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
 # Solutions: Little Quizzes [LQs]
 ## LQ0
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
