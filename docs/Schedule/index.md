@@ -34,7 +34,7 @@ The course schedule posted below is subject to change during the semester.
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
 | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Introduction to the Power Series Method; Review of Taylor and Maclaurin Series; Convergence and Radius of Convergence |  | Power Series Methods <br><br> [Power Series: Notes-set1](/fall2026/docs/Notes/)|
 |  | Oct 22, 2026 |  |  |  |  |
-| Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Legendre's equation; Regular Singular Points; Method of Frobenius: The Exceptional Cases; Bessel's Equation |  | Power Series Methods <br><br> [Power Series: Notes-set2](/fall2026/docs/Notes/) |
+| Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Legendre's equation; Regular Singular Points; Method of Frobenius: The Exceptional Cases; Bessel's Equation |  | [Power Series: Notes-set2](/fall2026/docs/Notes/) |
 |  | Oct 29, 2026 |  | Introduction to Laplace transform and inverse transform Transformation of Initial value problems; Translation and Partial Fractions |  |Laplace Transform Methods |
 | Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Derivatives, integrals and products of transforms | HW3 due |  |
 |  | Nov 5, 2026 |  | Periodic and Piecewise continuous input functions |  |  |
