@@ -48,8 +48,7 @@ The grading breakdown is subject to change during the course for the benefit of 
 
 
 ### Grading Scale from Fall 2026 (subject to change during Fall 2026)
-Will be announced soon
-<!-- The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F. -->
+The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F.
 
 Grades are "rounded up" to the nearest integer.
 
