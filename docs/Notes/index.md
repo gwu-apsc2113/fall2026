@@ -192,6 +192,22 @@ nav_order: 4
   </iframe>
 </div>
 
+# Laplace Transform
+## Introduction
+## The Laplace Transform workbook
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/APSC2113_Laplace_Workbook2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+## Partial fractions by the "Cover-up" method
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/partial_fractions_coverup.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
 # Solutions: Little Quizzes [LQs]
 ## LQ0
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">

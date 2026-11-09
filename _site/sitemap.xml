@@ -181,6 +181,10 @@
 <loc>http://localhost:4000/fall2026/docs/navigation/main/yu/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fall2026/docs/Notes/APSC2113_Laplace_Workbook2.pdf</loc>
+<lastmod>2026-11-05T02:23:29-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/fall2026/docs/Notes/APSC_2113___HW1_Solutions.pdf</loc>
 <lastmod>2026-10-12T18:39:46-04:00</lastmod>
 </url>
@@ -283,5 +287,9 @@
 <url>
 <loc>http://localhost:4000/fall2026/docs/Notes/SecondOrderODEs_Notes-set6.pdf</loc>
 <lastmod>2026-10-12T18:34:57-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/fall2026/docs/Notes/partial_fractions_coverup.pdf</loc>
+<lastmod>2026-11-05T02:04:38-05:00</lastmod>
 </url>
 </urlset>
