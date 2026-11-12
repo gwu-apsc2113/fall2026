@@ -185,14 +185,31 @@ nav_order: 4
 </div>
 
 # Power Series Notes-set2
-## The Legendre Equation
+## Where do power series work? Classifying points for series solutions
+## When to use Ordinary Power series and The Forbenius Method (Comparion of the Legendre's and the Bessel's Equation)
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
   <iframe src="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set2.pdf' | relative_url }}">Download PDF</a>
   </iframe>
 </div>
 
-# Laplace Transform
+# Power Series Notes-set3
+## The special Legendre's Equation and its power series solution
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/PowerSeries_Notes-set3.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set3.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# Power Series Notes-set4
+## The Frobenius Method and examples (The Bessel's equation of order zero)
+<div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
+  <iframe src="{{ '/docs/Notes/PowerSeries_Notes-set4.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/docs/Notes/PowerSeries_Notes-set4.pdf' | relative_url }}">Download PDF</a>
+  </iframe>
+</div>
+
+# The Laplace Transform
 ## Introduction
 ## The Laplace Transform workbook
 <div class="pdf-container" style="position: relative; width: 100%; height: 80vh;">
