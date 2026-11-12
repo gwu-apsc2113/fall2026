@@ -27,19 +27,19 @@ The course schedule posted below is subject to change during the semester.
 | Sep 21st - Sep 27th | Sep 22, 2026 | LQ3 [Solutions](/fall2026/docs/Notes/) | Oscillations; Homogeneous Equations with Constant Coefficients |  |  |
 |  | Sep 24, 2026 |  | Overdamped, Underdamped ODEs, and Undamped-type of Second Order, Linear, homogeneous ODEs |  | [Second Order ODEs: Notes-set2](/fall2026/docs/Notes/) <br><br> [Second-Order Linear ODEs: Roots and Damping (Cheat Sheet)](/fall2026/docs/Notes/) |
 | Sep 28th - Oct 4th | Sep 29, 2026 | RQ2 [Solutions](/fall2026/docs/Notes/) | Critically damped ODEs; Nonhomogeneous Equations; Impulse and Step functions; Shifted impulse response in first-order linear ODEs; Forced Oscillations and Resonance |  | [Second Order ODEs: Notes-set3](/fall2026/docs/Notes/) |
-|  | Oct 1, 2026 | LQ4 [Solutions](/fall2026/docs/Notes/) |  |  |
-| Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 [Solutions](/fall2026/docs/Notes/) | Impulse and Step Response in Second-order, linear ODEs with constant coeffiencents; Exponential Response Function (ERF) approach to solve Second Order, Linear, non-homogeneous ODEs |  | [Second Order ODEs: Notes-set4](/fall2026/docs/Notes/)  |  |
+|  | Oct 1, 2026 | LQ4 [Solutions](/fall2026/docs/Notes/) |  |  |  |
+| Oct 5th - Oct 11th | Oct 6, 2026 | LQ5 [Solutions](/fall2026/docs/Notes/) | Impulse and Step Response in Second-order, linear ODEs with constant coeffiencents; Exponential Response Function (ERF) approach to solve Second Order, Linear, non-homogeneous ODEs |  | [Second Order ODEs: Notes-set4](/fall2026/docs/Notes/)  |  
 |  | Oct 8, 2026 |  | Examples of Exponential Response Function (ERF) approach;  Discussion about Power Series; Discussion about the midterm exam | HW2 due <br><br> [Solutions](/fall2026/docs/Notes/) | [Second Order ODEs: Notes-set5](/fall2026/docs/Notes/) <br><br> [Second Order ODEs: Notes-set6](/fall2026/docs/Notes/) |
 | Oct 12th - Oct 18th | Oct 13, 2026 | Fall Break |  |  |  |
 |  | Oct 15, 2026 | Exam-1: 1st and 2nd order ODEs, and power series basics |  |  |  |
 | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Introduction to the Power Series Method; Review of Taylor and Maclaurin Series; Convergence and Radius of Convergence |  | Power Series Methods <br><br> [Power Series: Notes-set1](/fall2026/docs/Notes/)|
 |  | Oct 22, 2026 |  |  |  |  |
 | Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Legendre's equation; Regular Singular Points; Method of Frobenius: The Exceptional Cases; Bessel's Equation |  | [Power Series: Notes-set2](/fall2026/docs/Notes/) |
-|  | Oct 29, 2026 |  | Introduction to Laplace transform and inverse transform Transformation of Initial value problems; Translation and Partial Fractions |  |Laplace Transform Methods |
-| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Derivatives, integrals and products of transforms | HW3 due |  |
-|  | Nov 5, 2026 |  | Periodic and Piecewise continuous input functions |  |  |
-| Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | Impulses and Delta Functions |  |  |
-|  | Nov 12, 2026 |  | First-order Systems and Applications | HW4 due | Linear systems of Differential Equations |
+|  | Oct 29, 2026 |  | Introduction to Laplace transform and inverse transform Transformation of Initial value problems; Translation and Partial Fractions |  | Getting started on the Laplace Transform methods [The Laplace Transform](/fall2026/docs/Notes/) |
+| Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Where do power series work? Classifying points for series solutions | HW3 due | |
+|  | Nov 5, 2026 |  | The special Legendre’s Equation and its power series solution |  | [Power Series: Notes-set3](/fall2026/docs/Notes/)  |
+| Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | When to use Ordinary Power series and The Forbenius Method (Comparion of the Legendre’s and the Bessel’s Equation) |  |  |
+|  | Nov 12, 2026 |  | The Frobenius Method and examples (The Bessel’s equation of order zero) | HW4 TBA | [Power Series: Notes-set4](/fall2026/docs/Notes/) |
 | Nov 16th - Nov 22nd | Nov 17, 2026 | LQ8 | The method of elimination |  |  |
 |  | Nov 19, 2026 |  | Martices and linear systems; The Eigenvalue method for homogenous systems |  |  |
 | Nov 23rd - Nov 29th | Nov 24, 2026 | Thanksgiving Break |  |  |  |
