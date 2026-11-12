@@ -35,13 +35,13 @@ The course schedule posted below is subject to change during the semester.
 | Oct 19th - Oct 25th | Oct 20, 2026 | RQ3 | Introduction to the Power Series Method; Review of Taylor and Maclaurin Series; Convergence and Radius of Convergence |  | Power Series Methods <br><br> [Power Series: Notes-set1](/fall2026/docs/Notes/)|
 |  | Oct 22, 2026 |  |  |  |  |
 | Oct 26th - Nov 1st | Oct 27, 2026 | LQ6 | Legendre's equation; Regular Singular Points; Method of Frobenius: The Exceptional Cases; Bessel's Equation |  | [Power Series: Notes-set2](/fall2026/docs/Notes/) |
-|  | Oct 29, 2026 |  | Introduction to Laplace transform and inverse transform Transformation of Initial value problems; Translation and Partial Fractions |  | Getting started on the Laplace Transform methods [The Laplace Transform](/fall2026/docs/Notes/) |
+|  | Oct 29, 2026 |  | Introduction to Laplace transform and inverse transform Transformation of Initial value problems; Translation and Partial Fractions |  | Getting started on the Laplace Transform methods <br><br> [The Laplace Transform](/fall2026/docs/Notes/) |
 | Nov 2nd - Nov 8th | Nov 3, 2026 | LQ7 | Where do power series work? Classifying points for series solutions | HW3 due | |
 |  | Nov 5, 2026 |  | The special Legendre’s Equation and its power series solution |  | [Power Series: Notes-set3](/fall2026/docs/Notes/)  |
-| Nov 9th - Nov 15th | Nov 10, 2026 | RQ4 | When to use Ordinary Power series and The Forbenius Method (Comparion of the Legendre’s and the Bessel’s Equation) |  |  |
-|  | Nov 12, 2026 |  | The Frobenius Method and examples (The Bessel’s equation of order zero) | HW4 TBA | [Power Series: Notes-set4](/fall2026/docs/Notes/) |
-| Nov 16th - Nov 22nd | Nov 17, 2026 | LQ8 | The method of elimination |  |  |
-|  | Nov 19, 2026 |  | Martices and linear systems; The Eigenvalue method for homogenous systems |  |  |
+| Nov 9th - Nov 15th | Nov 10, 2026 |  | When to use Ordinary Power series and The Forbenius Method (Comparion of the Legendre’s and the Bessel’s Equation) |  |  |
+|  | Nov 12, 2026 | RQ4 due | The Frobenius Method and examples (The Bessel’s equation of order zero) | HW4 TBA | [Power Series: Notes-set4](/fall2026/docs/Notes/) |
+| Nov 16th - Nov 22nd | Nov 17, 2026 | RQ5 due | The method of elimination |  |  |
+|  | Nov 19, 2026 | LQ8 | Martices and linear systems; The Eigenvalue method for homogenous systems |  |  |
 | Nov 23rd - Nov 29th | Nov 24, 2026 | Thanksgiving Break |  |  |  |
 |  | Nov 26, 2026 |  |  |  |  |
 | Nov 30th - Dec 6th | Dec 1, 2026 | LQ9 | Second order systems and mechanical applications |  | Linear systems of Differential Equations (continued) |
